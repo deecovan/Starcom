@@ -820,7 +820,7 @@
         "DEFAULT.PLAYER": 0.0
       },
       "DEFAULT.STARCOM": {
-        "DEFAULT.REMNANT": -0.6050802
+        "DEFAULT.REMNANT": -0.5086895
       }
     },
     "damageModifiers": {},
@@ -863,12 +863,12 @@
   },
   "gameVarData": {
     "numberVars": {
-      "DEFAULT.DEEP_SPACE-7_lull": 4.69176626,
-      "DEFAULT.SKILL_TECHS-0_delay": 500.662323,
-      "DEFAULT.ANALYTICS-1_delay": 200.520477,
+      "DEFAULT.DEEP_SPACE-7_lull": 10.4081621,
+      "DEFAULT.SKILL_TECHS-0_delay": 506.378723,
+      "DEFAULT.ANALYTICS-1_delay": 206.236862,
       "DEFAULT.ANALYTICS-13_delay": 37.5669136,
-      "DEFAULT.DEEP_SPACE-11_lull": 4.69176626,
-      "HELP.VOID-0_lull": 4.69176626,
+      "DEFAULT.DEEP_SPACE-11_lull": 10.4081621,
+      "HELP.VOID-0_lull": 10.4081621,
       "ALPHA.STABILIZERS": 2.0
     },
     "flagVars": {
@@ -3958,7 +3958,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 423.038757,
-            "age": 106.124786,
+            "age": 331.529449,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -3976,7 +3976,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 451.553253,
-            "age": 77.80226,
+            "age": 303.208221,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -4050,8 +4050,8 @@
       "universe": 0,
       "ux": 5,
       "uz": 5,
-      "x": -326.74588,
-      "z": -896.4131
+      "x": -282.542084,
+      "z": -885.179
     },
     "playerShip": {
       "shipDesignId": "DEFAULT.SMALL_MISSILES",
@@ -4152,7 +4152,7 @@
       },
       "lastVisibility": 300.0,
       "lastDisposition": 1000.0,
-      "lastActive": 500.62900558952242,
+      "lastActive": 506.345505418838,
       "disabled": false,
       "persistentId": "PLAYER",
       "prefabName": "Ship",
@@ -4160,8 +4160,8 @@
         "universe": 0,
         "ux": 5,
         "uz": 5,
-        "x": -326.74588,
-        "z": -896.4131
+        "x": -282.542084,
+        "z": -885.179
       },
       "factionId": "DEFAULT.PLAYER",
       "discovered": false
@@ -4177,7 +4177,7 @@
     "researchPoints": 0,
     "totalResearchPoints": 0,
     "anomaliesCompleted": 0,
-    "distanceFlown": 3979.519136193242,
+    "distanceFlown": 4020.6768701696883,
     "swatch": {
       "id": "DEFAULT.STARCOM",
       "plating1": {
@@ -4293,7 +4293,7 @@
   "phenomenaData": {
     "emissaryData": {
       "destinations": [],
-      "timer": 505.045
+      "timer": 510.782867
     }
   },
   "proceduralData": {
@@ -5323,7 +5323,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "DEFAULT.STARCOM_BASE",
-            "rotation": 136.58905,
+            "rotation": 120.382072,
             "scale": 2.3,
             "modules": [
               {
@@ -5642,7 +5642,7 @@
             },
             "lastVisibility": 5000.0,
             "lastDisposition": 999.0,
-            "lastActive": 500.62900558952242,
+            "lastActive": 506.345505418838,
             "disabled": false,
             "persistentId": "ARRIVAL.CELAENO",
             "prefabName": "Ship",
@@ -41270,6 +41270,6 @@
   },
   "startBuild": 21519,
   "gameId": "fc8669fad7fb4e669f40373e5d44f3d6",
-  "gameTime": 500.9802,
-  "playTime": 643.6325
+  "gameTime": 506.6966,
+  "playTime": 873.905945
 }

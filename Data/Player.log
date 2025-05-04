@@ -85,3 +85,7 @@ Module collision with MISSILES_2 (ShipModule) and ENGINE_6 (ShipModule) at HexCo
 Attacking ALPHA.MAIA
 Attempted to trigger an unknown Steam Achievement: 'UNKNOWN'
 #24015 872.0899 sec: FPS: 29.95977 Mission Update: 0.0008937
+#32743 1172.11 sec: FPS: 29.97073 Mission Update: 0.00089754
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: dc8 -> priority: 1 
+  Thread -> id: 9b0 -> priority: 1 
