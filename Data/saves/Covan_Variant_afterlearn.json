@@ -47,7 +47,8 @@
     "CODEX_SHAPE",
     "REMNANT_MINIS",
     "REMNANTS_2",
-    "HELLO"
+    "HELLO",
+    "DISPATCHES"
   ],
   "convoSaveData": {
     "actors": [
@@ -117,7 +118,8 @@
           "DEFAULT.ENGINEER_SHIPBUILDING",
           "ARRIVAL.PLAYER_MILTON_RAIDERS",
           "BEYOND.PLAYER_MILTON_DROPS",
-          "ARRIVAL.PLAYER_MILTON_VOID"
+          "ARRIVAL.PLAYER_MILTON_VOID",
+          "CODEX_SHAPE.PLAYER_MILTON_CODEX"
         ]
       },
       {
@@ -131,7 +133,8 @@
         ],
         "activeTopics": [
           "ARRIVAL.PLAYER_RAMA_ARTIFACT",
-          "CODEX_SHAPE.PLAYER_RAMA_CODEX"
+          "CODEX_SHAPE.PLAYER_RAMA_CODEX",
+          "YU_PROGRESS.PLAYER_RAMA_XENIUM"
         ]
       },
       {
@@ -250,7 +253,8 @@
           "GORYR.PLAYER_GORYR_EMISSARY",
           "GORYR.PLAYER_GORYR_ERMYR",
           "GORYR.PLAYER_GORYR_DEVOUT",
-          "WISKAMUG.PLAYER_GORYR_WISKAMUG"
+          "WISKAMUG.PLAYER_GORYR_WISKAMUG",
+          "GORYR.PLAYER_GORYR_POLYHEDRAL"
         ]
       },
       {
@@ -326,7 +330,12 @@
       "PIRATES.BROGIDAR_DEFAULT",
       "CXTA.CXTA_PLAGUE",
       "ARRIVAL.YU_ALETHEIA_FOUND",
-      "BEYOND.PLAYER_MILTON_CHROMA"
+      "BEYOND.PLAYER_MILTON_CHROMA",
+      "YU_PROGRESS.YU_PROMOTION_1",
+      "ARRIVAL.RAMA_POLYHEDRAL",
+      "ARRIVAL.PLAYER_RAMA_ARTIFACT",
+      "CODEX_SHAPE.PLAYER_RAMA_CODEX",
+      "DEEP_SEARCH.MILTON_TAU_NEUTRINOS"
     ]
   },
   "crewData": {
@@ -447,7 +456,7 @@
         "tags": []
       }
     ],
-    "supportCrew": 25
+    "supportCrew": 35
   },
   "discoverySaveData": {
     "playerDiscoveries": [
@@ -1056,7 +1065,7 @@
         "ARRIVAL.RED_RAIDERS": -1.121039E-44
       },
       "ARRIVAL.RED_RAIDERS": {
-        "DEFAULT.PLAYER": -1.30720846E-28,
+        "DEFAULT.PLAYER": -1.09896716E-28,
         "DEFAULT.STARCOM": -1.121039E-44,
         "DEFAULT.OBSTACLE": -1.66092133E-14
       },
@@ -1064,22 +1073,22 @@
         "DEFAULT.PLAYER": 0.0
       },
       "DEFAULT.ERMYR": {
-        "DEFAULT.PLAYER": -8.173277E-37
+        "DEFAULT.PLAYER": -6.87125559E-37
       },
       "ARRIVAL.ALETHEIA": {
         "DEFAULT.PLAYER": 0.0,
         "DEFAULT.OBSTACLE": -9.257589E-15
       },
       "DEVOUT.DEVOUT": {
-        "DEFAULT.PLAYER": -0.006789143,
-        "WISKAMUG.WISKAMUG": -1.51390456E-09,
+        "DEFAULT.PLAYER": -0.00570761738,
+        "WISKAMUG.WISKAMUG": -1.27273614E-09,
         "DEFAULT.OBSTACLE": -1.66092133E-14
       },
       "PIRATES.BROGIDAR": {
         "DEFAULT.PLAYER": 0.0
       },
       "DEADMAN.DEADMAN": {
-        "DEFAULT.PLAYER": -1.81957347E-07,
+        "DEFAULT.PLAYER": -1.5297114E-07,
         "WISKAMUG.WISKAMUG": 0.0,
         "PIRATES.BROGIDAR": 0.0,
         "DEFAULT.OBSTACLE": -4.273872E-09
@@ -1148,35 +1157,36 @@
   },
   "gameVarData": {
     "numberVars": {
-      "DEFAULT.DEEP_SPACE-10_lull": 43.2477455,
+      "DEFAULT.DEEP_SPACE-10_lull": 2.72639132,
       "CXTA.PLAGUE_SHARE": 0.3,
-      "ARRIVAL.RESEARCH_LAB-9_delay": 10283.8916,
+      "ARRIVAL.RESEARCH_LAB-9_delay": 10290.9033,
       "ALPHA.STABILIZERS": 2.0,
       "VAULT.GLYPHS": 1.0,
-      "HELP.BATTLESTATIONS-3_lull": 43.2477455,
-      "COMETS.COMETS-4_delay": 9435.082,
+      "HELP.BATTLESTATIONS-3_lull": 2.72639132,
+      "COMETS.COMETS-4_delay": 9442.094,
       "COMETS.COMETS": 2.0,
-      "BEYOND.RED_RAIDERS-6_delay": 7718.00244,
+      "BEYOND.RED_RAIDERS-6_delay": 7725.017,
       "REMNANT_SPACE.RAMA_SCIENCE_POINTS": 1215.0,
       "REMNANT_SPACE.RAMA_SCIENCE_QUESTIONS": 1.0,
-      "WISKAMUG.WISKAMUG-23_delay": 64.57789,
+      "WISKAMUG.WISKAMUG-23_delay": 71.59212,
       "DEFAULT.SCUTTLEBUTT": 10861.8555,
-      "DEVOUT.DEVOUT_START-3_delay": 5309.296,
+      "DEVOUT.DEVOUT_START-3_delay": 5316.31055,
       "HERETICS.PYRAMIDS": 1.0,
       "PIRATES.PAYMENTS": 1.0,
-      "PIRATES.BROGIDAR-24_delay": 3519.26831,
+      "PIRATES.BROGIDAR-24_delay": 3526.28271,
       "DEADMAN.SPAWNS": 3.0,
-      "GORYR.VISIT-5_delay": 43.6358452,
+      "GORYR.VISIT-5_delay": 46.36224,
       "PIRATES.SUBSCRIPTION": 7351.6377,
       "OUTLIERS.OUTLIERS": 2.0,
-      "ARRIVAL.POLYHEDRAL-13_delay": 3206.59546,
+      "ARRIVAL.POLYHEDRAL-13_delay": 3213.60986,
       "OUTLIERS.MESSAGES": 1.0,
-      "OUTLIERS.RELAYS-13_delay": 149.588181,
+      "OUTLIERS.RELAYS-13_delay": 156.602432,
       "REMNANT_SPACE.VOID_RANDOM": 8443.917,
       "REMNANT_SPACE.RANDOMS": 3.0,
-      "WISKAMUG.WISKAMUG-31_delay": 43.5639877,
-      "CXTA.CXTA_FREIGHTERS-3_delay": 10.7839279,
-      "ARRIVAL.ALETHEIA_RETURNS-9_lull": 6.26071024
+      "WISKAMUG.WISKAMUG-31_delay": 50.5782356,
+      "CXTA.CXTA_FREIGHTERS-3_delay": 17.7981758,
+      "ARRIVAL.ALETHEIA_RETURNS-9_lull": 2.72639132,
+      "REMNANT_SPACE.BOOTSTRAP-13_delay": 2.72639132
     },
     "flagVars": {
       "SEPHARIAL.LOOP": true,
@@ -1232,7 +1242,11 @@
       "DEFAULT.MISSILE_TECH": true,
       "DEADMAN.SPAWN": true,
       "DEADMAN.DISARMED": true,
-      "DEADMAN.SET_ANOMALY": true
+      "DEADMAN.SET_ANOMALY": true,
+      "YU_PROGRESS.PROMOTION_1": true,
+      "REMNANT_SPACE.POLYHEDRA_COMPLETE": true,
+      "GORYR.GORYR_VISIT": true,
+      "DISPATCHES.SPAWN": true
     },
     "stringVars": {
       "DEFAULT.ANOMALY_WHITELIST": "ARRIVAL.CELAENO_OUTPOST",
@@ -1289,11 +1303,14 @@
       "OUTLIERS.EVACUATED_PYRAMID[1]",
       "REMNANT_SPACE.ABANDONED_MINER[1]",
       "OUTLIERS.EVACUATED_PYRAMID[6]",
-      "OUTLIERS.BURST_RELAY[1]"
+      "OUTLIERS.BURST_RELAY[1]",
+      "YU_PROGRESS.YU_PROMOTION_1[1]",
+      "ARRIVAL.RAMA_POLYHEDRAL[1]",
+      "ARRIVAL.PLAYER_RAMA_ARTIFACT[1]",
+      "CODEX_SHAPE.PLAYER_RAMA_CODEX[1]",
+      "DEEP_SEARCH.MILTON_TAU_NEUTRINOS[1]"
     ],
-    "skillsChecked": [
-      "#Rocky R2_122425881-565519768::REMNANT_SPACE.ABANDONED_MINER[6]"
-    ],
+    "skillsChecked": [],
     "anomaliesSeen": [
       "ALPHA.CARGO_HAULER",
       "ARRIVAL.CELAENO_OUTPOST",
@@ -1773,12 +1790,15 @@
       "DEVOUT.DATA_POLY": {
         "itemId": "DEVOUT.DATA_POLY",
         "faction": "",
-        "droppable": false,
+        "droppable": true,
         "moduleTypeDrop": 0,
         "analyzed": false,
-        "frequency": 0.0,
+        "frequency": 0.1,
         "acquiredTime": 0.0,
-        "tags": []
+        "tags": [
+          "DEVOUT.DEVOUT_ELITE_DROP",
+          "DEVOUT.DEVOUT_DROP"
+        ]
       },
       "DEVOUT.DATA_SPEAR": {
         "itemId": "DEVOUT.DATA_SPEAR",
@@ -2850,7 +2870,7 @@
         "activeNodeIndices": [
           1,
           4,
-          2,
+          3,
           4
         ]
       },
@@ -2972,7 +2992,7 @@
             "progress": 1,
             "maxProgress": 3,
             "startTime": 9119.243,
-            "age": 2083.709,
+            "age": 2245.38428,
             "playerCoord": {
               "universe": 0,
               "ux": -3,
@@ -3017,7 +3037,7 @@
             "progress": 2,
             "maxProgress": 3,
             "startTime": 542.3825,
-            "age": 13599.2783,
+            "age": 13761.4277,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -3035,9 +3055,9 @@
       },
       {
         "appearInLog": true,
-        "collapsed": false,
+        "collapsed": true,
         "missionId": "ARRIVAL.POLYHEDRAL",
-        "state": 1,
+        "state": 10,
         "priority": 1,
         "progressTime": 7801.9249414716614,
         "stopped": false,
@@ -3151,7 +3171,7 @@
           2,
           6,
           2,
-          0,
+          1,
           2,
           0
         ]
@@ -3236,8 +3256,8 @@
         "activeNodeIndices": [
           7,
           4,
-          0,
-          0,
+          2,
+          2,
           0
         ]
       },
@@ -3739,7 +3759,7 @@
         "activeNodeIndices": [
           2,
           0,
-          0
+          1
         ]
       },
       {
@@ -3778,7 +3798,7 @@
         "stopped": false,
         "details": [],
         "activeNodeIndices": [
-          1,
+          3,
           1
         ]
       },
@@ -3956,7 +3976,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 8196.274,
-            "age": 3034.9458,
+            "age": 3196.621,
             "playerCoord": {
               "universe": 0,
               "ux": -1,
@@ -4129,7 +4149,7 @@
         "stopped": false,
         "details": [],
         "activeNodeIndices": [
-          0
+          1
         ]
       },
       {
@@ -5443,14 +5463,14 @@
         "details": [],
         "activeNodeIndices": [
           2,
-          2,
-          2,
+          1,
+          1,
           1,
           1,
           1,
           1,
           0,
-          0,
+          1,
           0,
           1,
           0,
@@ -5704,7 +5724,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 1756.717,
-            "age": 11419.8633,
+            "age": 11582.0127,
             "playerCoord": {
               "universe": 0,
               "ux": 8,
@@ -5843,17 +5863,17 @@
         "missionId": "CODEX_SHAPE.CODEX",
         "state": 1,
         "priority": 0,
-        "progressTime": 5447.0966395481955,
+        "progressTime": 11015.932034758735,
         "stopped": false,
         "details": [
           {
             "missionId": "CODEX_SHAPE.CODEX",
             "id": "RAMA",
             "description": "Возможно, у доктора Рамы есть какие-то идеи.",
-            "progress": 0,
+            "progress": 1,
             "maxProgress": 1,
             "startTime": 5447.09668,
-            "age": 7324.41943,
+            "age": 7386.52539,
             "playerCoord": {
               "universe": 0,
               "ux": 10,
@@ -5863,10 +5883,28 @@
             },
             "priority": 10,
             "HasGoal": false
+          },
+          {
+            "missionId": "CODEX_SHAPE.CODEX",
+            "id": "MILTON",
+            "description": "А доктора Раму совершенно не интересует объект-головоломка. Она предлагает отдать его лейтенанту Милтону.",
+            "progress": 0,
+            "maxProgress": 1,
+            "startTime": 11015.9316,
+            "age": 99.6272659,
+            "playerCoord": {
+              "universe": 0,
+              "ux": 5,
+              "uz": 5,
+              "x": -36.19946,
+              "z": -804.7336
+            },
+            "priority": 10,
+            "HasGoal": false
           }
         ],
         "activeNodeIndices": [
-          2,
+          3,
           0,
           0,
           0
@@ -6024,19 +6062,56 @@
         ]
       },
       {
-        "appearInLog": false,
+        "appearInLog": true,
         "collapsed": false,
         "missionId": "DEEP_SEARCH.DEEP_SEARCH",
         "state": 1,
         "priority": 0,
-        "progressTime": 6633.4441643998725,
+        "progressTime": 11015.932034758735,
         "stopped": false,
-        "details": [],
+        "details": [
+          {
+            "missionId": "DEEP_SEARCH.DEEP_SEARCH",
+            "id": "SEARCH_LOGS",
+            "description": "Лейтенант Милтон предложил поискать в наших журналах «тау нейтрино», чтобы определить последнее известное местонахождение заброшенного корабля.",
+            "progress": 0,
+            "maxProgress": 0,
+            "startTime": 11015.9316,
+            "age": 0.0,
+            "playerCoord": {
+              "universe": 0,
+              "ux": 5,
+              "uz": 5,
+              "x": -36.19946,
+              "z": -804.7336
+            },
+            "priority": 0,
+            "HasGoal": false
+          },
+          {
+            "missionId": "DEEP_SEARCH.DEEP_SEARCH",
+            "id": "MONITOR_RETURN",
+            "description": "Нам следует вернуться на место, где мы обследовали заброшенную станцию мониторинга.",
+            "progress": 0,
+            "maxProgress": 1,
+            "startTime": 11015.9316,
+            "age": 97.62803,
+            "playerCoord": {
+              "universe": 0,
+              "ux": 5,
+              "uz": 5,
+              "x": -36.19946,
+              "z": -804.7336
+            },
+            "priority": 10,
+            "HasGoal": false
+          }
+        ],
         "activeNodeIndices": [
           4,
           1,
-          3,
-          0,
+          4,
+          1,
           0
         ]
       },
@@ -6185,7 +6260,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 10736.1816,
-            "age": 436.651184,
+            "age": 598.4312,
             "playerCoord": {
               "universe": 0,
               "ux": 4,
@@ -6220,7 +6295,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 7472.50146,
-            "age": 4519.994,
+            "age": 4681.66943,
             "playerCoord": {
               "universe": 0,
               "ux": 0,
@@ -6369,6 +6444,35 @@
           2,
           0
         ]
+      },
+      {
+        "appearInLog": false,
+        "collapsed": false,
+        "missionId": "DISPATCHES.BOOTSTRAP",
+        "state": 1,
+        "priority": 0,
+        "progressTime": 11015.932034758735,
+        "stopped": false,
+        "details": [],
+        "activeNodeIndices": [
+          1
+        ]
+      },
+      {
+        "appearInLog": false,
+        "collapsed": false,
+        "missionId": "DISPATCHES.DISPATCHES",
+        "state": 1,
+        "priority": 0,
+        "progressTime": 11015.932034758735,
+        "stopped": false,
+        "details": [],
+        "activeNodeIndices": [
+          1,
+          1,
+          0,
+          0
+        ]
       }
     ],
     "currentEnding": {
@@ -6381,17 +6485,17 @@
     "playerFirstName": "Dee",
     "playerLastName": "Covan",
     "shipName": "Covan",
-    "playerRank": 8,
+    "playerRank": 9,
     "playerCoord": {
       "universe": 0,
       "ux": 5,
       "uz": 5,
-      "x": 44.7007027,
-      "z": -819.429565
+      "x": -36.918335,
+      "z": -804.6046
     },
     "playerShip": {
       "shipDesignId": "DEFAULT.SMALL_MISSILES",
-      "rotation": 280.2469,
+      "rotation": 280.1258,
       "scale": 0.0,
       "modules": [
         {
@@ -6579,19 +6683,6 @@
       "maxHealth": 143.0,
       "maxSize": 20.25,
       "profileType": "SimpleAgent",
-      "command": {
-        "$type": "AIPlayerAutopilotCommand, Assembly-CSharp",
-        "destination": {
-          "universe": 0,
-          "ux": 0,
-          "uz": 0,
-          "x": 0.0,
-          "z": 0.0
-        },
-        "targetId": "ARRIVAL.CELAENO",
-        "ThrottledSpeed": -1.0,
-        "UseTurbo": false
-      },
       "spawnOrigin": {
         "universe": 0,
         "ux": 999,
@@ -6601,7 +6692,7 @@
       },
       "lastVisibility": 351.25,
       "lastDisposition": 1000.0,
-      "lastActive": 11011.243435383425,
+      "lastActive": 11018.24250914494,
       "disabled": false,
       "persistentId": "PLAYER",
       "prefabName": "Ship",
@@ -6609,8 +6700,8 @@
         "universe": 0,
         "ux": 5,
         "uz": 5,
-        "x": 44.7007027,
-        "z": -819.429565
+        "x": -36.918335,
+        "z": -804.6046
       },
       "factionId": "DEFAULT.PLAYER",
       "discovered": false
@@ -6641,10 +6732,10 @@
     "battlestationsCooldown": 0.0,
     "shieldCharge": 0.0,
     "havokCharge": 0.0,
-    "researchPoints": 575,
+    "researchPoints": 0,
     "totalResearchPoints": 2115,
     "anomaliesCompleted": 36,
-    "distanceFlown": 498861.37795923004,
+    "distanceFlown": 498943.64740633796,
     "swatch": {
       "id": "DEFAULT.STARCOM",
       "plating1": {
@@ -6760,7 +6851,7 @@
   "phenomenaData": {
     "emissaryData": {
       "destinations": [],
-      "timer": 580.168762
+      "timer": 587.0636
     }
   },
   "proceduralData": {
@@ -7213,7 +7304,7 @@
     }
   },
   "shipLogData": {
-    "index": 195,
+    "index": 199,
     "entries": [
       {
         "id": 1,
@@ -10718,6 +10809,78 @@
         "summary": "<i>Вискамуг: \"Рад снова видеть тебя, знакомый Вискамуга.</i>",
         "intro": "12/22/2641 2:20:00 PM <i>Covan</i>\t Стенограмма журнала связи",
         "details": "Вискамуг: \"Рад снова видеть тебя, знакомый Вискамуга.\"\n\n<i>Cmd Covan: Мы хотели бы торговать с вами.</i>\n\nВискамуг: \"Если Вискамуг и знаменит чем-то одним, так это очень низкими ценами на артефакты.\n\nЯ шучу, конечно. Как может быть Вискамуг знаменит только чем-то одним?\"\n"
+      },
+      {
+        "id": 196,
+        "type": 1,
+        "gameTime": 11015,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -36.19946,
+          "z": -804.7336
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_CREW_3",
+        "categoryText": "мич James Rhea (Биомедицина)",
+        "summary": "\"<i>Я перевёл тяжелораненых членов вспомогательной команды в медотсек «Келено»....</i>\"",
+        "intro": "<i>Covan</i>: 12/22/2641 6:20:00 PM at 5.49 x 5.34 Неизвестный космос, запись в журнале экипажа",
+        "details": "мич James Rhea (Биомедицина):\n\nЯ перевёл тяжелораненых членов вспомогательной команды в медотсек «Келено». Нам назначили замену из штата станции."
+      },
+      {
+        "id": 197,
+        "type": 4,
+        "gameTime": 11015,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -36.19946,
+          "z": -804.7336
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_VINCE_YU",
+        "categoryText": "Журнал связи: Кммдр Ю\n",
+        "summary": "<i>Кммдр </i>",
+        "intro": "12/22/2641 6:20:00 PM <i>Covan</i>\t Стенограмма журнала связи",
+        "details": "Кммдр Ю\n: \"«Covan» превосходно показал себя в исключительных обстоятельствах.\n\nВаш экипаж получил повышение по службе, пора его командиру получить то же самое.\n\nПрисуждаю Вам звание Коммандера 1-го класса.\"\n\nКммдр Ю\n: \"С вашим новым званием у меня появилось немного больше свободы в отношении того, что мне разрешено раскрывать вам относительно нашей миссии здесь.\n\nПо большей части всё так, как вас проинструктировали:\nНам было поручено исследовать эту вселенную, прежде чем расширять доступ к исследованиям.\"\n\nКммдр Ю\n: \"Есть ряд секретных дополнительных деталей, только к некоторым из которых у меня был полный доступ.\n\nУ исследовательского подразделения, обнаружившего червоточину и придумавшего, как её расширить, были основания бояться, что здесь есть что-то опасное. Поэтому они разработали ксениумное устройство, способное создавать события критической нестабильности в масштабе Планка. Если его ввести в червоточину во время её схлопывания, оно может навсегда разорвать связь.\n\nИдея состоит в том, что если что-то в этой вселенной представляет реальную угрозу нашему существованию, будет использовано устройство CIE. Очевидно, любой на этой стороне окажется здесь в ловушке.\"\n\nКммдр Ю\n: \"Так как это надолго задержало бы нас здесь, мое начальство решило, что общее знание этой информации может создать «контрпродуктивные мотивы», как они выразились.\n\nЯ не согласился, но мои возражения были отклонены.\n\nКак я уже сказал, мне разрешено раскрывать эту информацию по принципу «необходимо знать» коммандерам 1-го класса и выше. Так что, боюсь, вам придется держать свой экипаж в неведении.\"\n\n<i>Cmd Covan: Вас понял.</i>\n"
+      },
+      {
+        "id": 198,
+        "type": 4,
+        "gameTime": 11015,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -36.19946,
+          "z": -804.7336
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_DR_RAMA",
+        "categoryText": "Журнал связи: Доктор Рама",
+        "summary": "<i>Доктор Рама: \"Я вижу, вы решили отдохнуть от взрывания всего, чтобы сделать...</i>",
+        "intro": "12/22/2641 6:20:00 PM <i>Covan</i>\t Стенограмма журнала связи",
+        "details": "Доктор Рама: \"Я вижу, вы решили отдохнуть от взрывания всего, чтобы сделать настоящее интересное открытие.\n\nМногогранный артефакт, который вы активировали, похоже, выбрасывает энергию в масштабах большой солнечной вспышки каждые 14,3 секунды, но с минимальным ионизирующим излучением. Новые элементарные частицы, которые он открыл, весьма интригующи.\n\"\n\n<i>Cmd Covan: Спасибо. Означает ли это, что вы будете менее снисходительны?\n</i>\n\nДоктор Рама: \"Сегодня я буду менее снисходительной.\n\nЕсли вы хотите, чтобы я была дружелюбна завтра, сделайте ещё одно открытие, которое изменит наше понимание физики.\n\"\n\n<i>Cmd Covan: Так что же это на самом деле?</i>\n\nДоктор Рама: \"Очевидно, это выходит за рамки наших технологий. За то короткое время, которое я провела с данными, я выдвинула две гипотезы.\n\nВо-первых, это какой-то маяк. Экзотические частицы, которые он производит, будут безошибочно различимы на любом расстоянии.\n\"\n\nДоктор Рама: \"Другая возможность заключается в том, что, хотя этот объект генерирует очень большое количество энергии, возможно, эта энергия является лишь частью уравнения. Возможно, для запуска процесса, для которого он предназначен, требуется какой-то дополнительный ввод: информация, материал или даже больше энергии.\n\nНо, честно говоря, это всего лишь предположения. Кто и почему создал артефакт, имеет второстепенное значение: меня интересуют те частицы, которые освещают нашу реальность.\"\n\n<i>Cmd Covan: Итак, что вы узнали из нашего путешествия через шлюз?</i>\n\nДоктор Рама: \"Очевидно, я была права, полагая, что он служит для тех же целей, что и стабилизаторы червоточин, построенные Старком.\n\nОн недостаточно мощный, чтобы создать червоточину в нашу вселенную, но он может создавать локальные мосты в космическом многообразии.\n\"\n\nДоктор Рама: \"Кто бы ни построил его, он был очень продвинутым в технологическом отношении. Несмотря на меньший уровень мощности, эти шлюзы искажают пространство гораздо эффективнее наших стабилизаторов.\n\nВполне возможно, что если мы сможем найти больше подобных артефактов, мы сможем открыть червоточину домой с этой стороны.\n\"\n\n<i>Cmd Covan: Мы нашли объект-головоломку внутри запечатанной пирамиды. Что вы об этом думаете?</i>\n\nДоктор Рама: \"В этой вселенной достаточно загадок, чтобы поддерживать мой интерес. У меня нет времени на игрушки и диковинки.\n\nЕсли тебя это действительно смущает, отдай это Милтону. Я помню, что его развлекали подобные вещи.\"\n"
+      },
+      {
+        "id": 199,
+        "type": 4,
+        "gameTime": 11015,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -36.19946,
+          "z": -804.7336
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_ENGINEER",
+        "categoryText": "Журнал связи: Лейтенант Милтон",
+        "summary": "<i>Лейтенант Милтон: \"Во время вашего последнего ремонта я обсуждал с мич...</i>",
+        "intro": "12/22/2641 6:20:00 PM <i>Covan</i>\t Стенограмма журнала связи",
+        "details": "Лейтенант Милтон: \"Во время вашего последнего ремонта я обсуждал с мич Gliese способы улучшения тактических сенсоров Covan. Мы заговорили о недавних приключениях экипажа, и тут всплыл инцидент с предполагаемой бесхозной станцией. Очевидно, она была настроена на измерение нейтрино тау-типа?\n\nИз-за ограничений по допуску я не мог раскрыть им эту информацию, но Старком экспериментировал с использованием этих частиц для обнаружения кораблей за пределами действия наших обычных сенсоров. Насколько мне известно, ничего практического из этого не вышло, но, возможно, операторы той станции догадались об этом.\"\n\nЛейтенант Милтон: \"В журналах заброшенного корабля не было ничего, что могло бы пролить свет, но они куда-то отправляли данные. Они хорошо постарались, чтобы скрыть цель, но, думаю, они корректировали силу сигнала, чтобы учесть близлежащие источники энергии.\n\nЕсли вы вернётесь к месту нахождения брошенного корабля, мич Kepler <i>возможно</i> сможет определить его местоположение с помощью локального фонового сканирования.\"\n\n<i>Cmd Covan: Полагаю, что заброшенный корабль мог быть уничтожен.</i>\n\nЛейтенант Милтон: \"Что ж, я вас не виню. Нет смысла оставлять ценные останки.\n\nНо вам нужно всего лишь найти место, где находился заброшенный корабль, чтобы произвести измерения. Вы должны найти его в корабельном журнале.\"\n"
       }
     ]
   },
@@ -10878,6 +11041,12 @@
         "announcer": "Картография",
         "news": "Карта локального кластера обновлена данными с кораблей «[SHIP_NAME]» и «Алетейя».",
         "channel": "CELAENO"
+      },
+      {
+        "gameTime": 11015.9316,
+        "announcer": "Коммодор Ю",
+        "news": "В 22:30 в главном зрительном зале состоится церемония в честь повышения  [PLAYER_NAME] в звании.",
+        "channel": "CELAENO"
       }
     ],
     "stationData": [
@@ -10931,7 +11100,16 @@
         "DEFAULT.CREW_QUARTERS",
         "DEFAULT.PLASMA_2",
         "DEFAULT.BATTLESTATIONS_COOLDOWN_1",
-        "DEFAULT.FALLEN"
+        "DEFAULT.FALLEN",
+        "DEFAULT.HULL_SIZE_1",
+        "DEFAULT.THERMAL_VIS",
+        "DEFAULT.HEAT_1",
+        "DEFAULT.DAMAGE_EFFICACY_1",
+        "DEFAULT.EXHAUST",
+        "DEFAULT.PLASMA_RANGE_2",
+        "DEFAULT.PLASMA_FIRE_RATE_1",
+        "DEFAULT.PLASMA_ROTATE_2DEFAULT",
+        "DEFAULT.RESOURCE_DROP_1"
       ],
       "PIRATES.BROGIDAR": [
         "DEFAULT.FIXED_PUNCHTHRU_1"
@@ -10983,7 +11161,14 @@
       "DEFAULT.SWATCH",
       "DEFAULT.ENGINES_2",
       "DEFAULT.CREW_QUARTERS",
-      "DEFAULT.PLASMA_2"
+      "DEFAULT.PLASMA_2",
+      "DEFAULT.HEAT_1",
+      "DEFAULT.DAMAGE_EFFICACY_1",
+      "DEFAULT.EXHAUST",
+      "DEFAULT.PLASMA_RANGE_2",
+      "DEFAULT.PLASMA_FIRE_RATE_1",
+      "DEFAULT.PLASMA_ROTATE_2DEFAULT",
+      "DEFAULT.SELF_CARE"
     ]
   },
   "tradeSaveData": {
@@ -11637,7 +11822,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "DEFAULT.STARCOM_BASE",
-            "rotation": 274.857239,
+            "rotation": 254.634018,
             "scale": 2.3,
             "modules": [
               {
@@ -11956,7 +12141,7 @@
             },
             "lastVisibility": 700.0,
             "lastDisposition": 999.0,
-            "lastActive": 11011.243435383425,
+            "lastActive": 11018.24250914494,
             "disabled": false,
             "persistentId": "ARRIVAL.CELAENO",
             "prefabName": "Ship",
@@ -11973,7 +12158,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "ARRIVAL.ALETHEIA",
-            "rotation": 29.2716541,
+            "rotation": 87.53218,
             "scale": 0.0,
             "modules": [
               {
@@ -12253,7 +12438,7 @@
             "profileType": "Aletheia",
             "command": {
               "$type": "AIVisitCommand, Assembly-CSharp",
-              "persistentId": "ARRIVAL.RAIDER_PLANET",
+              "persistentId": "ARRIVAL.CEL_GIANT",
               "locked": false,
               "ThrottledSpeed": -1.0
             },
@@ -12266,7 +12451,7 @@
             },
             "lastVisibility": 472.5,
             "lastDisposition": 99.0,
-            "lastActive": 11011.243435383425,
+            "lastActive": 11018.24250914494,
             "disabled": false,
             "persistentId": "ARRIVAL.ALETHEIA2",
             "prefabName": "Ship",
@@ -12274,8 +12459,8 @@
               "universe": 0,
               "ux": 5,
               "uz": 5,
-              "x": 604.7653,
-              "z": -536.9572
+              "x": 710.769958,
+              "z": -365.977875
             },
             "factionId": "ARRIVAL.ALETHEIA",
             "discovered": true
@@ -48970,6 +49155,6 @@
   },
   "startBuild": 21519,
   "gameId": "fc8669fad7fb4e669f40373e5d44f3d6",
-  "gameTime": 11011.6445,
-  "playTime": 15897.9766
+  "gameTime": 11018.6582,
+  "playTime": 16064.0039
 }

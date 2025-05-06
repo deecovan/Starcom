@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.457 seconds
+- Completed reload, in  0.504 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.522500 ms
+UnloadTime: 4.443800 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -54,6 +54,33 @@ Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 No starting location
+#9021 346.2462 sec: FPS: 29.9881 Mission Update: 0.00287411
+Duplicate log entry, skipping
+#17617 646.274 sec: FPS: 17.45641 Mission Update: 0.0048765
+Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+#26051 946.307 sec: FPS: 29.58291 Mission Update: 0.00347176
+Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
+#34605 1246.313 sec: FPS: 29.90873 Mission Update: 0.00376396
+Non-existant faction 'DEFAULT.OBSTACLE, creating ad-hoc
+No faction id
+Unable to find swatch for '', using default
+No such faction 'DEFAULT.OBSTACLE'
+Unable to find swatch for 'DEFAULT.OBSTACLE', using default
+#42505 1546.32 sec: FPS: 29.23974 Mission Update: 0.00377275
+Attempting to delete 2 autosaves...
+Deleting autosave: Arrival_Complete
+Deleting autosave: Post_Prologue
+Deleted 2 autosaves.
+No faction id
+Unable to find swatch for '', using default
+No such faction 'DEFAULT.OBSTACLE'
+Unable to find swatch for 'DEFAULT.OBSTACLE', using default
+#49187 1846.342 sec: FPS: 29.8361 Mission Update: 0.0037103
+#56981 2146.348 sec: FPS: 29.80354 Mission Update: 0.00349095
+#65562 2446.382 sec: FPS: 29.86874 Mission Update: 0.00335686
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
@@ -61,144 +88,35 @@ Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
-#9101 360.4398 sec: FPS: 29.93605 Mission Update: 0.00348221
-Attempted to trigger an unknown Steam Achievement: 'RESCUE'
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.BEAM_COOLANT
+#73810 2746.416 sec: FPS: 29.94152 Mission Update: 0.00258768
+Duplicate log entry, skipping
+#81347 3046.428 sec: FPS: 28.5701 Mission Update: 0.00244948
+#89753 3346.441 sec: FPS: 29.34798 Mission Update: 0.0032703
+#97197 3646.46 sec: FPS: 18.42003 Mission Update: 0.00442599
+#104943 3946.482 sec: FPS: 29.53136 Mission Update: 0.0032555
+Duplicate log entry, skipping
+#113358 4246.516 sec: FPS: 23.57636 Mission Update: 0.00458793
+#120767 4546.547 sec: FPS: 19.51715 Mission Update: 0.00410592
+#128519 4846.558 sec: FPS: 29.21541 Mission Update: 0.00261773
+Bootstrapped story 'DISPATCHES'
+#137025 5146.563 sec: FPS: 30.17682 Mission Update: 0.00246375
 Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
-#17834 660.4639 sec: FPS: 29.54201 Mission Update: 0.00269295
-Duplicate player found on load, removing prior
-#26452 960.4736 sec: FPS: 24.64748 Mission Update: 0.0031933
-Attempted to trigger an unknown Steam Achievement: 'RESCUE'
 Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-#35198 1260.487 sec: FPS: 29.63821 Mission Update: 0.00326451
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Story 'BEYOND' already started
-#43569 1560.514 sec: FPS: 30.20649 Mission Update: 0.00254129
-Bootstrapped story 'GORYR'
-#51839 1860.52 sec: FPS: 27.82924 Mission Update: 0.00317379
-Bootstrapped story 'ASTEROIDS'
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 7)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 7)
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#59888 2160.546 sec: FPS: 27.93997 Mission Update: 0.00423429
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Bootstrapped story 'EMISSARY'
-Activating emissary for 'EmissaryDestination'
-Attempted to trigger an unknown Steam Achievement: 'EMISSARY'
-Bootstrapped story 'FOREST'
-Bootstrapped story 'CXTA'
-#67902 2460.569 sec: FPS: 29.81077 Mission Update: 0.0035944
-Task scheduler exceeded 1500ms
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-#76632 2760.605 sec: FPS: 29.63821 Mission Update: 0.00134728
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#84985 3060.621 sec: FPS: 26.92965 Mission Update: 0.0024681
-#93190 3360.627 sec: FPS: 29.96342 Mission Update: 0.00341686
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-#101275 3660.641 sec: FPS: 29.96342 Mission Update: 0.00116143
-Material ProgressFill(Clone) doesn't have _Stencil property
-Task scheduler exceeded 1500ms
-#109811 3960.652 sec: FPS: 29.46763 Mission Update: 0.00342153
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#118632 4260.681 sec: FPS: 29.82524 Mission Update: 0.00424442
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#126862 4560.708 sec: FPS: 30.08815 Mission Update: 0.00253142
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-Cannot interact while scan in progress
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Attempted to trigger an unknown Steam Achievement: 'EXPLORER_1'
-#134828 4860.742 sec: FPS: 29.82524 Mission Update: 0.0028387
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#142527 5160.745 sec: FPS: 29.76744 Mission Update: 0.001279
-Cannot begin survey: HOSTILES_NEAR
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-#150849 5460.749 sec: FPS: 30.13242 Mission Update: 0.00161117
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1a48 -> priority: 1 
-  Thread -> id: 2340 -> priority: 1 
+  Thread -> id: b60 -> priority: 1 
+  Thread -> id: 2798 -> priority: 1 
