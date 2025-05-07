@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.504 seconds
+- Completed reload, in  0.340 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 4.443800 ms
+UnloadTime: 2.489500 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -25,98 +25,31 @@ Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\S
 Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\StreamingAssets\Content\Kepler\Presaves\Post_Prologue_info.json
 Localizing to ru
 Total localization targets: 0, total symbols: 6632
+Can not play a disabled audio source
 Cannot resolve destination host
 Server unexpected response: 
 Activating Wwise
 WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
 WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
 WwiseUnity: Sound engine initialized successfully.
-Steam knows about 0 achievements
 Preloading DEFAULT
 Preloading ALPHA
 Preloading ARRIVAL
 Preloading BEYOND
 Preloading REMNANT_SPACE
+Steam knows about 0 achievements
 StoryId was null
 No starting story found: ''
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
 No starting location
-#9021 346.2462 sec: FPS: 29.9881 Mission Update: 0.00287411
-Duplicate log entry, skipping
-#17617 646.274 sec: FPS: 17.45641 Mission Update: 0.0048765
-Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
-Cannot interact while scan in progress
-Cannot interact while scan in progress
-Cannot interact while scan in progress
-#26051 946.307 sec: FPS: 29.58291 Mission Update: 0.00347176
-Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
-#34605 1246.313 sec: FPS: 29.90873 Mission Update: 0.00376396
-Non-existant faction 'DEFAULT.OBSTACLE, creating ad-hoc
-No faction id
-Unable to find swatch for '', using default
-No such faction 'DEFAULT.OBSTACLE'
-Unable to find swatch for 'DEFAULT.OBSTACLE', using default
-#42505 1546.32 sec: FPS: 29.23974 Mission Update: 0.00377275
-Attempting to delete 2 autosaves...
-Deleting autosave: Arrival_Complete
-Deleting autosave: Post_Prologue
-Deleted 2 autosaves.
-No faction id
-Unable to find swatch for '', using default
-No such faction 'DEFAULT.OBSTACLE'
-Unable to find swatch for 'DEFAULT.OBSTACLE', using default
-#49187 1846.342 sec: FPS: 29.8361 Mission Update: 0.0037103
-#56981 2146.348 sec: FPS: 29.80354 Mission Update: 0.00349095
-#65562 2446.382 sec: FPS: 29.86874 Mission Update: 0.00335686
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.BEAM_COOLANT
-#73810 2746.416 sec: FPS: 29.94152 Mission Update: 0.00258768
-Duplicate log entry, skipping
-#81347 3046.428 sec: FPS: 28.5701 Mission Update: 0.00244948
-#89753 3346.441 sec: FPS: 29.34798 Mission Update: 0.0032703
-#97197 3646.46 sec: FPS: 18.42003 Mission Update: 0.00442599
-#104943 3946.482 sec: FPS: 29.53136 Mission Update: 0.0032555
-Duplicate log entry, skipping
-#113358 4246.516 sec: FPS: 23.57636 Mission Update: 0.00458793
-#120767 4546.547 sec: FPS: 19.51715 Mission Update: 0.00410592
-#128519 4846.558 sec: FPS: 29.21541 Mission Update: 0.00261773
+#8524 344.909 sec: FPS: 29.91692 Mission Update: 0.00228595
 Bootstrapped story 'DISPATCHES'
-#137025 5146.563 sec: FPS: 30.17682 Mission Update: 0.00246375
 Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: b60 -> priority: 1 
-  Thread -> id: 2798 -> priority: 1 
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
