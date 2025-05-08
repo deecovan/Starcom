@@ -368,7 +368,7 @@
     ]
   },
   "crewData": {
-    "totalXP": 70,
+    "totalXP": 71,
     "unspentPoints": 0,
     "currentTeamLevel": 3,
     "crew": [
@@ -1333,12 +1333,12 @@
         "DEVOUT_WAR.DEVOUT_SUPER": 0.0
       },
       "LAST_TALONIAN.RED_GUARD": {
-        "DEFAULT.PLAYER": -1.81855648E-05
+        "DEFAULT.PLAYER": -1.08055383E-05
       },
       "DEFAULT.STARCOM": {
         "DEFAULT.REMNANT": -0.5086895,
         "ARRIVAL.RED_RAIDERS": -1.121039E-44,
-        "GORYR.GORYR": -8.676975E-33
+        "GORYR.GORYR": -5.155704E-33
       },
       "ARRIVAL.RED_RAIDERS": {
         "DEFAULT.PLAYER": -1.121039E-44,
@@ -1356,33 +1356,33 @@
         "DEFAULT.OBSTACLE": -9.257589E-15
       },
       "DEVOUT.DEVOUT": {
-        "DEFAULT.PLAYER": -1.14690285E-10,
-        "WISKAMUG.WISKAMUG": -1.93600691E-08,
+        "DEFAULT.PLAYER": -6.814693E-11,
+        "WISKAMUG.WISKAMUG": -1.15034089E-08,
         "DEFAULT.OBSTACLE": -3.48,
-        "CXTA.CXTA": -1.4911E-31,
-        "PIRATES.BROGIDAR": -1.84882233E-29
+        "CXTA.CXTA": -8.85985139E-32,
+        "PIRATES.BROGIDAR": -1.09853735E-29
       },
       "PIRATES.BROGIDAR": {
         "DEFAULT.PLAYER": 0.0,
-        "DEVOUT.DEVOUT": -2.9784864E-26
+        "DEVOUT.DEVOUT": -1.76976383E-26
       },
       "DEADMAN.DEADMAN": {
-        "DEFAULT.PLAYER": -1.02369172E-11,
+        "DEFAULT.PLAYER": -6.082594E-12,
         "WISKAMUG.WISKAMUG": 0.0,
         "PIRATES.BROGIDAR": 0.0,
         "DEFAULT.OBSTACLE": -4.273872E-09
       },
       "HERETICS.REDOUBT": {
-        "DEFAULT.PLAYER": -3.06706564E-23
+        "DEFAULT.PLAYER": -1.8223957E-23
       },
       "DEVOUT.DEVOUT_ELITE": {
-        "DEFAULT.PLAYER": -6.29916777E-21
+        "DEFAULT.PLAYER": -3.742853E-21
       },
       "REFINERY.REFINERY": {
         "DEFAULT.PLAYER": 0.0
       },
       "LEGACY.LEGACY": {
-        "DEFAULT.PLAYER": -0.8569856
+        "DEFAULT.PLAYER": -0.5092056
       }
     },
     "damageModifiers": {
@@ -1479,31 +1479,31 @@
   },
   "gameVarData": {
     "numberVars": {
-      "DEFAULT.DEEP_SPACE-10_lull": 22.3397026,
+      "DEFAULT.DEEP_SPACE-10_lull": 0.6975214,
       "CXTA.PLAGUE_SHARE": 0.3,
-      "ARRIVAL.RESEARCH_LAB-9_delay": 17663.0039,
+      "ARRIVAL.RESEARCH_LAB-9_delay": 17702.123,
       "ALPHA.STABILIZERS": 2.0,
       "VAULT.GLYPHS": 1.0,
-      "HELP.BATTLESTATIONS-3_lull": 22.3397026,
-      "COMETS.COMETS-4_delay": 16815.1172,
+      "HELP.BATTLESTATIONS-3_lull": 0.6975214,
+      "COMETS.COMETS-4_delay": 16854.2363,
       "COMETS.COMETS": 2.0,
-      "BEYOND.RED_RAIDERS-6_delay": 15098.2256,
+      "BEYOND.RED_RAIDERS-6_delay": 15137.3994,
       "REMNANT_SPACE.RAMA_SCIENCE_POINTS": 1215.0,
       "REMNANT_SPACE.RAMA_SCIENCE_QUESTIONS": 1.0,
-      "WISKAMUG.WISKAMUG-23_delay": 36.14304,
+      "WISKAMUG.WISKAMUG-23_delay": 75.30197,
       "DEFAULT.SCUTTLEBUTT": 18306.21,
-      "DEVOUT.DEVOUT_START-3_delay": 12688.5908,
+      "DEVOUT.DEVOUT_START-3_delay": 12727.7646,
       "HERETICS.PYRAMIDS": 3.0,
       "PIRATES.PAYMENTS": 3.0,
-      "PIRATES.BROGIDAR-24_delay": 1677.15149,
+      "PIRATES.BROGIDAR-24_delay": 1716.30969,
       "DEADMAN.SPAWNS": 4.0,
       "PIRATES.SUBSCRIPTION": 16655.5234,
       "OUTLIERS.OUTLIERS": 2.0,
-      "ARRIVAL.POLYHEDRAL-13_delay": 10585.1924,
+      "ARRIVAL.POLYHEDRAL-13_delay": 10624.3662,
       "OUTLIERS.MESSAGES": 1.0,
       "REMNANT_SPACE.VOID_RANDOM": 8443.917,
       "REMNANT_SPACE.RANDOMS": 4.0,
-      "REFINERY.REFINERY_REPAIR-21_delay": 617.954346,
+      "REFINERY.REFINERY_REPAIR-21_delay": 657.1134,
       "OUTLIERS.RELAYS-13_anomalies": 0.0,
       "FALLEN.EMPIRE_RUINS": 1.0,
       "DISPATCHES.DISPATCHES": 18306.21,
@@ -1513,7 +1513,8 @@
       "HARD_RADIATION.BOOTSTRAP-2_anomalies": 0.0,
       "DOLSON.DOLSON_CONVOS-2_anomalies": 0.0,
       "OUTLIERS.PORTALS_ACTIVATED": 1.0,
-      "REFINERY.REFINERY_REPAIR-16_delay": 504.282654
+      "REFINERY.REFINERY_REPAIR-16_delay": 543.441833,
+      "WISKAMUG.WISKAMUG-31_delay": 1.02203226
     },
     "flagVars": {
       "SEPHARIAL.LOOP": true,
@@ -1705,7 +1706,8 @@
     ],
     "skillsChecked": [
       "REFINERY.FALLEN::REFINERY.EMPIRE_PETS[2]",
-      "#Lunar L1_971886638-254748741::REMNANTS_2.MAGMA_DISPLACEMENT[2]"
+      "#Lunar L1_971886638-254748741::REMNANTS_2.MAGMA_DISPLACEMENT[2]",
+      "#Rocky R1_1969170144-955052722::REMNANT_SPACE.SILVER_MOUNTAIN[2]"
     ],
     "anomaliesSeen": [
       "ALPHA.CARGO_HAULER",
@@ -1793,7 +1795,8 @@
       "NEW_WORLDS.DRY_DERELICT",
       "REMNANTS_2.MAGMA_DISPLACEMENT",
       "LEGACY.LEGACY_BASE_1",
-      "WISKAMUG.AUTOCLAVE_PYRAMID"
+      "WISKAMUG.AUTOCLAVE_PYRAMID",
+      "REMNANT_SPACE.SILVER_MOUNTAIN"
     ]
   },
   "itemSaveData": {
@@ -3465,7 +3468,7 @@
             "progress": 2,
             "maxProgress": 3,
             "startTime": 14027.6406,
-            "age": 5589.44873,
+            "age": 5740.96729,
             "playerCoord": {
               "universe": 0,
               "ux": 18,
@@ -3511,7 +3514,7 @@
             "progress": 2,
             "maxProgress": 3,
             "startTime": 9119.243,
-            "age": 13333.4268,
+            "age": 13485.39,
             "playerCoord": {
               "universe": 0,
               "ux": -3,
@@ -3556,7 +3559,7 @@
             "progress": 2,
             "maxProgress": 3,
             "startTime": 542.3825,
-            "age": 24817.3,
+            "age": 24968.375,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -3711,7 +3714,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 11654.1221,
-            "age": 9261.322,
+            "age": 9413.285,
             "playerCoord": {
               "universe": 0,
               "ux": 10,
@@ -4738,7 +4741,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 14431.5908,
-            "age": 4952.072,
+            "age": 5103.59033,
             "playerCoord": {
               "universe": 0,
               "ux": 22,
@@ -6367,7 +6370,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 1756.717,
-            "age": 22650.63,
+            "age": 22801.7051,
             "playerCoord": {
               "universe": 0,
               "ux": 8,
@@ -6534,7 +6537,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 11015.9316,
-            "age": 11182.7344,
+            "age": 11334.6973,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -6691,7 +6694,7 @@
         "activeNodeIndices": [
           2,
           0,
-          0,
+          1,
           0,
           2,
           0,
@@ -6738,7 +6741,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 11015.9316,
-            "age": 11180.73,
+            "age": 11332.6934,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -6921,7 +6924,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 10736.1816,
-            "age": 11682.709,
+            "age": 11834.6719,
             "playerCoord": {
               "universe": 0,
               "ux": 4,
@@ -7004,7 +7007,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 17606.0723,
-            "age": 1010.66388,
+            "age": 1162.29346,
             "playerCoord": {
               "universe": 0,
               "ux": 11,
@@ -7305,7 +7308,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 14511.18,
-            "age": 4795.558,
+            "age": 4947.07666,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -7578,12 +7581,12 @@
       "universe": 0,
       "ux": 7,
       "uz": -5,
-      "x": -54.0631142,
-      "z": -167.634979
+      "x": -475.011322,
+      "z": -563.8286
     },
     "playerShip": {
       "shipDesignId": "DEFAULT.SMALL_MISSILES",
-      "rotation": 144.639633,
+      "rotation": 15.8512764,
       "scale": 0.0,
       "modules": [
         {
@@ -7840,7 +7843,7 @@
       },
       "lastVisibility": 395.0,
       "lastDisposition": 1000.0,
-      "lastActive": 18389.954040893354,
+      "lastActive": 18428.728073155624,
       "disabled": false,
       "persistentId": "PLAYER",
       "prefabName": "Ship",
@@ -7848,8 +7851,8 @@
         "universe": 0,
         "ux": 7,
         "uz": -5,
-        "x": -54.0631142,
-        "z": -167.634979
+        "x": -475.011322,
+        "z": -563.8286
       },
       "factionId": "DEFAULT.PLAYER",
       "discovered": false
@@ -7863,7 +7866,7 @@
       "TITANIUM": 266,
       "GOLD": 9,
       "IRIDIUM": 16,
-      "SILVER": 125,
+      "SILVER": 155,
       "URANIUM": 10,
       "DIBERYLLIUM": 1,
       "NEUTRONIUM": 2,
@@ -7882,8 +7885,8 @@
     "havokCharge": 0.0,
     "researchPoints": 680,
     "totalResearchPoints": 3700,
-    "anomaliesCompleted": 71,
-    "distanceFlown": 1093572.5747341637,
+    "anomaliesCompleted": 72,
+    "distanceFlown": 1094414.6461194865,
     "swatch": {
       "id": "DEFAULT.STARCOM",
       "plating1": {
@@ -7999,7 +8002,7 @@
   "phenomenaData": {
     "emissaryData": {
       "destinations": [],
-      "timer": 572.2966
+      "timer": 611.8884
     }
   },
   "proceduralData": {
@@ -8452,7 +8455,7 @@
     }
   },
   "shipLogData": {
-    "index": 309,
+    "index": 310,
     "entries": [
       {
         "id": 1,
@@ -14005,6 +14008,24 @@
         "summary": "<i>Внутри пирамиды команда обнаруживает, что полы и стены покрыты толстым слоем...</i>",
         "intro": "1/17/2642 7:00:00 AM <i>«Covan», посадочный модуль SCS-01</i>\tОтчёт о планетарной аномалии в 7.45 x -4.46 Неизвестный космос",
         "details": "Внутри пирамиды команда обнаруживает, что полы и стены покрыты толстым слоем сажи. Отложенная так давно, она затвердела, превратившись в кору, похожую на древесный уголь.\n\nТщательный поиск показывает, что все внутренние поверхности покрыты одним и тем же материалом. \n\nБольшая часть оборудования сильно пострадала от перегрева, хотя антенная решётка, встроенная в наружный декор, уцелела.\n\nНа нижних этажах, должно быть, жара была не такой сильной.\n\nВ подвальном помещении уцелело частично демонтированное оборудование. Есть признаки того, что незадолго до взрыва было извлечено крупное устройство.\n\nОдин почерневший корпус был оставлен на месте. По иронии судьбы, команда также не замечала этого, пока не вернулась в посадочный модуль и не просмотрела отснятый материал.\n\tПолучен предмет: Чёрная сфера\n"
+      },
+      {
+        "id": 310,
+        "type": 2,
+        "gameTime": 18393,
+        "coord": {
+          "universe": 0,
+          "ux": 7,
+          "uz": -5,
+          "x": -53.7150574,
+          "z": -168.187531
+        },
+        "showMapPin": false,
+        "spriteId": "REMNANT_SPACE.Anomalies/RockyMountainTop",
+        "categoryText": "Аномалия планеты: Серебряная гора",
+        "summary": "<i>Высоко на вершине вулкана, на глубине нескольких сотен метров под...</i>",
+        "intro": "1/17/2642 9:10:00 AM <i>«Covan», посадочный модуль SCS-01</i>\tОтчёт о планетарной аномалии в 7.49 x -4.53 Неизвестный космос",
+        "details": "Высоко на вершине вулкана, на глубине нескольких сотен метров под поверхностью, залегают плотные залежи серебра. Нет никаких сомнений в том, что команде удастся получить доступ к некоторым из них, хотя то, насколько глубоких жил они смогут достичь, зависит от умелого чтения сейсмографа посадочного модуля.\n\n\nмич Pirx грамотно направляет бур посадочного модуля на самые доступные месторождения, хотя некоторые из более мелких при доступе осыпаются, немного снижая урожайность.\n\t+30 Серебро\n"
       }
     ]
   },
@@ -32191,8 +32212,8 @@
           {
             "$type": "StarData, Assembly-CSharp",
             "luminosity": 1.0,
-            "explored": false,
-            "dragReduced": false,
+            "explored": true,
+            "dragReduced": true,
             "depleted": false,
             "starName": "",
             "persistentId": "#Yellow Star_361060116-1640271566",
@@ -32237,7 +32258,7 @@
           {
             "$type": "WarpNexusData, Assembly-CSharp",
             "isOn": false,
-            "sectorExplored": false,
+            "sectorExplored": true,
             "persistentId": "WISKAMUG.KORS_GATEWAY",
             "tags": "",
             "prefabName": "Warp Nexus",
@@ -32287,10 +32308,10 @@
             "size": 50.0,
             "seed": 935960106,
             "interaction": {
-              "anomalyState": 2,
+              "anomalyState": 6,
               "anomalyId": "REMNANT_SPACE.SILVER_MOUNTAIN",
               "hasTrade": false,
-              "instanceVisits": 0
+              "instanceVisits": 1
             },
             "procAnomalyCandidate": false,
             "placementPadding": 0.0,
@@ -32310,7 +32331,7 @@
             "size": 233.78183,
             "seed": 857444185,
             "interaction": {
-              "anomalyState": 0,
+              "anomalyState": 6,
               "hasTrade": false,
               "instanceVisits": 0
             },
@@ -32330,7 +32351,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "WISKAMUG.WISKAMUG",
-            "rotation": 173.808487,
+            "rotation": 40.2920837,
             "scale": 2.0,
             "modules": [
               {
@@ -32960,7 +32981,7 @@
             "profileType": "Wiskamug",
             "command": {
               "$type": "AIVisitCommand, Assembly-CSharp",
-              "persistentId": "#Rocky R1_1969170144-955052722",
+              "persistentId": "WISKAMUG.KORS_ACADEMY",
               "locked": false,
               "ThrottledSpeed": -1.0
             },
@@ -32973,7 +32994,7 @@
             },
             "lastVisibility": 700.0,
             "lastDisposition": 0.0,
-            "lastActive": 18389.954040893354,
+            "lastActive": 18428.728073155624,
             "disabled": false,
             "persistentId": "WISKAMUG.WISKAMUG",
             "prefabName": "Ship",
@@ -32981,8 +33002,8 @@
               "universe": 0,
               "ux": 7,
               "uz": -5,
-              "x": -105.03595,
-              "z": -33.5518723
+              "x": -427.5057,
+              "z": -523.651
             },
             "factionId": "WISKAMUG.WISKAMUG",
             "discovered": true
@@ -55427,6 +55448,6 @@
   },
   "startBuild": 21519,
   "gameId": "fc8669fad7fb4e669f40373e5d44f3d6",
-  "gameTime": 18389.9531,
-  "playTime": 27591.5762
+  "gameTime": 18429.08,
+  "playTime": 27745.43
 }

@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.419 seconds
+- Completed reload, in  0.612 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.403500 ms
+UnloadTime: 3.904400 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -55,83 +55,94 @@ Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 No starting location
-Clearing thermal vis
-#12556 364.2644 sec: FPS: 30.14073 Mission Update: 0.00216705
-#21282 664.3013 sec: FPS: 27.43929 Mission Update: 0.00184986
-#30062 964.3049 sec: FPS: 29.503 Mission Update: 0.00289135
-Clearing thermal vis
-#38614 1264.331 sec: FPS: 24.96293 Mission Update: 0.00308725
-#47202 1564.354 sec: FPS: 29.82162 Mission Update: 0.00231855
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#55331 1864.358 sec: FPS: 29.63463 Mission Update: 0.00318539
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
+#11277 348.9263 sec: FPS: 15.77204 Mission Update: 0.00391315
+#17753 648.9342 sec: FPS: 29.89236 Mission Update: 0.00260924
 Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+#26323 948.9567 sec: FPS: 29.14265 Mission Update: 0.00246468
 Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
 Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
 Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-#63815 2164.378 sec: FPS: 29.68116 Mission Update: 0.00276792
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#72424 2464.402 sec: FPS: 29.42529 Mission Update: 0.00187985
-#81060 2764.444 sec: FPS: 29.21541 Mission Update: 0.00319485
-Bootstrapped story 'CEPHEID'
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-#89485 3064.455 sec: FPS: 27.02441 Mission Update: 0.00298015
-Attempted to placed region 'Region (CEPHEID.CEPHEID)' near 'sector_0_2x12 0 x 0', actually placed at 'sector_0_6x8 0 x 0', dist 28284.27
-Clearing thermal vis
-Duplicate log entry, skipping
-#98147 3364.474 sec: FPS: 28.81801 Mission Update: 0.00181839
-Clearing thermal vis
-#106613 3664.476 sec: FPS: 29.876 Mission Update: 0.00228126
+#34863 1248.958 sec: FPS: 29.76023 Mission Update: 0.00271514
 Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
 Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
 Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
-#115174 3964.494 sec: FPS: 28.7237 Mission Update: 0.00314354
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 7)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 7)
-#123634 4264.511 sec: FPS: 29.17379 Mission Update: 0.00291051
-Attempting to delete 7 autosaves...
+Attempting to delete 4 autosaves...
 Deleting autosave: Arrival_Complete
-Deleting autosave: Covan_250505231243
-Deleting autosave: Covan_250505233058
-Deleting autosave: Covan_250505233523
-Deleting autosave: Covan_250505235031
-Deleting autosave: Covan_250506002831
+Deleting autosave: Autosave__Nil_of_Amon_250506213735
+Deleting autosave: Covan_250506211726
 Deleting autosave: Post_Prologue
-Deleted 7 autosaves.
+Deleted 4 autosaves.
+Duplicate player found on load, removing prior
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 8)
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.SHIELDS_2
+#43259 1548.989 sec: FPS: 29.84698 Mission Update: 0.00323679
+Attempted to trigger an unknown Steam Achievement: 'EXPLORER_2'
+No such discovery: 'DEVOUT.GLOSSOLALIA'
+Cannot interact while scan in progress
+#51720 1848.995 sec: FPS: 29.59538 Mission Update: 0.0027178
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+#60020 2149.022 sec: FPS: 30.09552 Mission Update: 0.00305856
+Bootstrapped story 'LAST_TALONIAN'
+Adding topic links instead of child nodes
+Bootstrapped story 'CEPHEID2'
+#68559 2449.034 sec: FPS: 28.11899 Mission Update: 0.00218195
+#77362 2749.063 sec: FPS: 29.36903 Mission Update: 0.00249458
+Material ProgressFill doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Clearing thermal vis
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Spawn coord isn't active: sector_0_0x0 0 x 0
+Spawned ship did not exist: #Ship_1823391123-41361099, attempted to spawn at sector_0_0x0 0 x 0
+Found persistent data: sector_0_0x0 0 x 0
+Spawn coord isn't active: sector_0_0x0 0 x 0
+Spawned ship did not exist: #Ship_1206117048-1708213799, attempted to spawn at sector_0_0x0 0 x 0
+Found persistent data: sector_0_0x0 6.70142 x 11.68269
+Spawn coord isn't active: sector_0_0x0 0 x 0
+Spawned ship did not exist: #Ship_5246532-1142297886, attempted to spawn at sector_0_0x0 0 x 0
+Found persistent data: sector_0_0x0 -9.844498 x 16.83258
+Spawn coord isn't active: sector_0_0x0 0 x 0
+Spawned ship did not exist: #Ship_1895497689-331794685, attempted to spawn at sector_0_0x0 0 x 0
+Found persistent data: sector_0_0x0 -29.24897 x -0.2459078
+#85782 3049.077 sec: FPS: 29.4535 Mission Update: 0.00296829
+Duplicate log entry, skipping
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+#94100 3349.108 sec: FPS: 29.94152 Mission Update: 0.00251231
+Detail already at max progress
+Bootstrapped story 'DOLSON'
+#102778 3649.114 sec: FPS: 29.04278 Mission Update: 0.00286159
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Detail already at max progress
+Bootstrapped story 'DOLSON'
+#111408 3949.133 sec: FPS: 26.51133 Mission Update: 0.00263423
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#119522 4249.143 sec: FPS: 29.24322 Mission Update: 0.00286883
+Activating emissary for 'EmissaryDestination'
+Duplicate player found on load, removing prior
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+#128059 4549.16 sec: FPS: 29.62392 Mission Update: 0.00243016
+Cannot set command without ship
+#136139 4849.165 sec: FPS: 30.13242 Mission Update: 0.00256374
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 20ac -> priority: 1 
-  Thread -> id: 13b8 -> priority: 1 
+  Thread -> id: 1574 -> priority: 1 
+  Thread -> id: 1ac -> priority: 1 
