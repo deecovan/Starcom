@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.415 seconds
+- Completed reload, in  0.290 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 6.372400 ms
+UnloadTime: 1.859300 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -25,73 +25,52 @@ Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\S
 Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\StreamingAssets\Content\Kepler\Presaves\Post_Prologue_info.json
 Localizing to ru
 Total localization targets: 0, total symbols: 6632
-Can not play a disabled audio source
 Cannot resolve destination host
 Server unexpected response: 
 Activating Wwise
 WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
 WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
 WwiseUnity: Sound engine initialized successfully.
-Steam knows about 0 achievements
 Preloading DEFAULT
 Preloading ALPHA
 Preloading ARRIVAL
 Preloading BEYOND
 Preloading REMNANT_SPACE
+Steam knows about 0 achievements
 StoryId was null
 No starting story found: ''
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
 No starting location
-#11584 354.7993 sec: FPS: 30.10013 Mission Update: 0.00342619
-Setting OUTLIERS.PROC_PORTAL_1 active to True
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 9)
-#19734 654.8278 sec: FPS: 29.57757 Mission Update: 0.00273672
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Activating emissary for 'EmissaryDestination'
 Duplicate log entry, skipping
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#26483 954.8552 sec: FPS: 29.91419 Mission Update: 0.0020503
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#34673 1254.875 sec: FPS: 29.54201 Mission Update: 0.00315013
-#43496 1554.905 sec: FPS: 29.56689 Mission Update: 0.00310903
-Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
-#51941 1854.911 sec: FPS: 29.49946 Mission Update: 0.00273748
 Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
 Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
 Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
-#60071 2154.917 sec: FPS: 29.97804 Mission Update: 0.00212813
-No such detail 'REPAIRS' in 'REFINERY.REFINERY_REPAIR'
-#68087 2454.969 sec: FPS: 26.00084 Mission Update: 0.00114914
-#76604 2754.98 sec: FPS: 29.80354 Mission Update: 0.00272943
-#84981 3054.989 sec: FPS: 29.90509 Mission Update: 0.00219855
-Duplicate log entry, skipping
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 6)
+#11711 348.957 sec: FPS: 29.80264 Mission Update: 0.0016681
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 5)
+Material ProgressFill doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#20255 648.9783 sec: FPS: 29.51363 Mission Update: 0.00284426
+#29015 948.9989 sec: FPS: 29.68654 Mission Update: 0.00213888
+#37608 1249.053 sec: FPS: 26.35779 Mission Update: 0.00194366
+Clearing thermal vis
+Clearing thermal vis
+Clearing thermal vis
+#46285 1549.073 sec: FPS: 29.93423 Mission Update: 0.0021328
+Clearing thermal vis
+#54382 1849.096 sec: FPS: 16.81215 Mission Update: 0.00465374
+Cannot set command without ship
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 23d4 -> priority: 1 
-  Thread -> id: 570 -> priority: 1 
+  Thread -> id: 1a50 -> priority: 1 
+  Thread -> id: 14b0 -> priority: 1 
