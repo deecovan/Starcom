@@ -372,7 +372,7 @@
   },
   "crewData": {
     "totalXP": 71,
-    "unspentPoints": 0,
+    "unspentPoints": 100,
     "currentTeamLevel": 3,
     "crew": [
       {
@@ -7989,7 +7989,7 @@
     "battlestationsCooldown": 0.0,
     "shieldCharge": 0.0,
     "havokCharge": 0.0,
-    "researchPoints": 5,
+    "researchPoints": 1000,
     "totalResearchPoints": 3970,
     "anomaliesCompleted": 72,
     "distanceFlown": 1128981.3122422658,
