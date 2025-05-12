@@ -1,0 +1,136 @@
+Mono path[0] = 'C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data/Managed'
+Mono config path = 'C:/Games/Starcom Unknown Space/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.46f1 (18bc01a066b4)
+[Subsystems] Discovering subsystems at path C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   
+    VRAM:     8119 MB
+    Driver:   30.0.101.1340
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.723 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.877900 ms
+Preloader started, build Kepler (21519)
+Async progress 90%, attempting scene activation...
+Build Number: 21519
+Curl error 6: Could not resolve host: lab.wx3.com
+Found announce override, using instead of server supplied news.
+Steamworks initialized successfully for 1750770, Branch: 
+Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\StreamingAssets\Content\Kepler\Presaves\Arrival_Complete_info.json
+Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\StreamingAssets\Content\Kepler\Presaves\Post_Prologue_info.json
+Localizing to ru
+Total localization targets: 0, total symbols: 6632
+Cannot resolve destination host
+Server unexpected response: 
+Activating Wwise
+WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
+WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
+WwiseUnity: Sound engine initialized successfully.
+Steam knows about 0 achievements
+Preloading DEFAULT
+Preloading ALPHA
+Preloading ARRIVAL
+Preloading BEYOND
+Preloading REMNANT_SPACE
+StoryId was null
+No starting story found: ''
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+No starting location
+#11673 356.9449 sec: FPS: 18.59177 Mission Update: 0.0027458
+Duplicate log entry, skipping
+Material ProgressFill doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#20528 656.9692 sec: FPS: 29.90509 Mission Update: 0.00260526
+Bootstrapped story 'RUNAWAY'
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#29368 956.9764 sec: FPS: 29.24148 Mission Update: 0.00206134
+#38031 1256.998 sec: FPS: 26.48561 Mission Update: 0.00189378
+Clearing thermal vis
+#46689 1557.008 sec: FPS: 30.03666 Mission Update: 0.0016818
+Duplicate log entry, skipping
+Clearing thermal vis
+Internal: JobTempAlloc has allocations that are more than 4 frames old - this is not allowed and likely a leak
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 7)
+Internal: deleting an allocation that is older than its permitted lifetime of 4 frames (age = 7)
+#54994 1857.014 sec: FPS: 13.69442 Mission Update: 0.00469143
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+#63123 2157.034 sec: FPS: 28.71028 Mission Update: 0.00304413
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+#70517 2763.821 sec: FPS: 0.08900529 Mission Update: 0.00242912
+#78808 3063.825 sec: FPS: 29.68833 Mission Update: 0.00321925
+Setting #Point Portal_800622200-670152377 active to True
+Duplicate log entry, skipping
+Setting OUTLIERS.FRAGMENT_PORTAL active to True
+Duplicate log entry, skipping
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Cannot interact without Anomaly
+Cannot interact without Anomaly
+Cannot interact without Anomaly
+Cannot interact without Anomaly
+#87333 3363.853 sec: FPS: 29.74582 Mission Update: 0.00314758
+#94904 3663.859 sec: FPS: 29.503 Mission Update: 0.00267993
+Setting #Point Portal_771262890-877258478 active to True
+Duplicate log entry, skipping
+Attempted to trigger an unknown Steam Achievement: 'TAUGHT'
+#103320 3963.896 sec: FPS: 29.22931 Mission Update: 0.00333966
+#110752 4263.921 sec: FPS: 28.67009 Mission Update: 0.00383728
+Survey module does not exist.
+#118492 4563.979 sec: FPS: 15.4995 Mission Update: 0.00535289
+Duplicate log entry, skipping
+#125762 4863.99 sec: FPS: 28.99481 Mission Update: 0.00291642
+#133850 5163.992 sec: FPS: 29.82524 Mission Update: 0.00255629
+#142281 5464.011 sec: FPS: 29.91236 Mission Update: 0.00135356
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1150 -> priority: 1 
+  Thread -> id: 19dc -> priority: 1 
