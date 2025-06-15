@@ -103,7 +103,8 @@
         "actorId": "DEFAULT.STARCOM:DR_RAMA",
         "activeIntros": [
           "DEFAULT.RAMA_DEFAULT",
-          "ARRIVAL.RAMA_RESEARCH"
+          "ARRIVAL.RAMA_RESEARCH",
+          "ARRIVAL.RAMA_BEYOND"
         ],
         "activeTopics": []
       },
@@ -263,11 +264,14 @@
       "ARRIVAL.YU_RESCUE_COMPLETE",
       "DEFAULT.ENGINEER_DEFAULT",
       "ARRIVAL.RAMA_RESEARCH",
-      "ARRIVAL.YU_RAIDERS"
+      "ARRIVAL.YU_RAIDERS",
+      "ARRIVAL.RAMA_BEYOND",
+      "ARRIVAL.YU_GATEWAY",
+      "ARRIVAL.PLAYER_YU_CLASSIFIED"
     ]
   },
   "crewData": {
-    "totalXP": 0,
+    "totalXP": 1,
     "unspentPoints": 0,
     "currentTeamLevel": 0,
     "crew": [
@@ -383,7 +387,10 @@
     "supportCrew": 0
   },
   "discoverySaveData": {
-    "playerDiscoveries": []
+    "playerDiscoveries": [
+      "ARRIVAL.RING_DATA",
+      "SCAN_DISCOVERIES.ULTRA_BOREALIS"
+    ]
   },
   "encounterSaveData": {
     "spheresOfInfluence": [
@@ -953,11 +960,11 @@
       },
       "DEFAULT.STARCOM": {
         "DEFAULT.REMNANT": -0.212296247,
-        "ARRIVAL.RED_RAIDERS": -0.132970288
+        "ARRIVAL.RED_RAIDERS": -0.0626893938
       },
       "ARRIVAL.RED_RAIDERS": {
-        "DEFAULT.STARCOM": -0.3794823,
-        "DEFAULT.PLAYER": -4.3059535
+        "DEFAULT.STARCOM": -0.178908512,
+        "DEFAULT.PLAYER": -2.03005958
       }
     },
     "damageModifiers": {},
@@ -1001,14 +1008,15 @@
   },
   "gameVarData": {
     "numberVars": {
-      "ARRIVAL.RESEARCH_LAB-9_delay": 108.186905,
-      "DEFAULT.SKILL_TECHS-0_delay": 1059.74561,
-      "DEFAULT.ANALYTICS-2_delay": 159.59465,
-      "DEFAULT.ANALYTICS-13_delay": 37.4689255,
+      "ARRIVAL.GREAT_BEYOND-6_delay": 1.284347,
+      "ARRIVAL.RESEARCH_LAB-9_delay": 164.842743,
+      "DEFAULT.SKILL_TECHS-0_delay": 1116.40088,
+      "DEFAULT.ANALYTICS-2_delay": 216.250412,
+      "DEFAULT.ANALYTICS-13_delay": 90.07411,
       "HELP.VOID-0_lull": 0.0,
       "ALPHA.STABILIZERS": 2.0,
       "DEFAULT.DEEP_SPACE-7_lull": 0.0,
-      "VOID.REAPER_ATTACK-20_delay": 106.993805
+      "VOID.REAPER_ATTACK-20_delay": 163.649643
     },
     "flagVars": {
       "SEPHARIAL.LOOP": true,
@@ -1021,27 +1029,33 @@
       "ARRIVAL.TECH_RESEARCHED": true,
       "ARRIVAL.RESEARCH_EXPLAINED": true,
       "ARRIVAL.RESCUED": true,
-      "DEFAULT.NEXUS_DISABLED": true,
       "ALPHA.COMPLETE": true,
       "DEFAULT.ALLOW_REPAIR_DROP": true,
-      "CXTA.SPAWN_CXTA": true
+      "CXTA.SPAWN_CXTA": true,
+      "DEFAULT.GATEWAY_TECH": true
     },
     "stringVars": {
       "DEFAULT.ANOMALY_WHITELIST": "ARRIVAL.CELAENO_OUTPOST"
     }
   },
   "interactionSaveData": {
-    "hintsSeen": [],
+    "hintsSeen": [
+      "ARRIVAL.BURIED_RING[1]"
+    ],
     "nodesSeen": [
       "ALPHA.SCHELL_WORMHOLE[1]",
       "ARRIVAL.YU_ARRIVAL[23]",
       "ARRIVAL.YU_RESCUE_COMPLETE[1]",
       "ARRIVAL.RAMA_RESEARCH[1]",
-      "ARRIVAL.YU_RAIDERS[2]"
+      "ARRIVAL.YU_RAIDERS[2]",
+      "ARRIVAL.RAMA_BEYOND[1]",
+      "ARRIVAL.YU_GATEWAY[1]",
+      "ARRIVAL.PLAYER_YU_CLASSIFIED[1]"
     ],
     "skillsChecked": [],
     "anomaliesSeen": [
-      "ARRIVAL.CELAENO_OUTPOST"
+      "ARRIVAL.CELAENO_OUTPOST",
+      "ARRIVAL.BURIED_RING"
     ]
   },
   "itemSaveData": {
@@ -2925,7 +2939,7 @@
         "stopped": false,
         "details": [],
         "activeNodeIndices": [
-          0,
+          2,
           2
         ]
       },
@@ -4422,21 +4436,21 @@
       },
       {
         "appearInLog": true,
-        "collapsed": false,
+        "collapsed": true,
         "missionId": "ARRIVAL.RED_RAIDERS",
-        "state": 1,
+        "state": 10,
         "priority": 1,
-        "progressTime": 952.00611420243513,
+        "progressTime": 1063.0257305228151,
         "stopped": false,
         "details": [
           {
             "missionId": "ARRIVAL.RED_RAIDERS",
             "id": "PLANET",
             "description": "Коммодор Ю хочет, чтобы мы обследовали планету в точке [COORD], где была обнаружена активность.",
-            "progress": 0,
+            "progress": 1,
             "maxProgress": 1,
             "startTime": 952.0061,
-            "age": 731.565369,
+            "age": 746.3951,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -4461,10 +4475,10 @@
           }
         ],
         "activeNodeIndices": [
-          5,
+          7,
           1,
           1,
-          0
+          1
         ]
       },
       {
@@ -4557,6 +4571,84 @@
           0,
           0
         ]
+      },
+      {
+        "appearInLog": true,
+        "collapsed": false,
+        "missionId": "ARRIVAL.GREAT_BEYOND",
+        "state": 1,
+        "priority": 1,
+        "progressTime": 1115.6308753448538,
+        "stopped": false,
+        "details": [
+          {
+            "missionId": "ARRIVAL.GREAT_BEYOND",
+            "id": "EXPLORE_BEYOND",
+            "description": "Нам следует использовать ближайший шлюз, чтобы попытаться добраться до региона в [COORD].",
+            "progress": 0,
+            "maxProgress": 1,
+            "startTime": 1115.63086,
+            "age": 296.2112,
+            "playerCoord": {
+              "universe": 0,
+              "ux": 5,
+              "uz": 5,
+              "x": -44.62338,
+              "z": -812.9123
+            },
+            "goal": {
+              "goalId": "BEYOND.NEXUS_START",
+              "clearProximity": 150.0,
+              "lastKnown": {
+                "universe": 0,
+                "ux": 10,
+                "uz": 11,
+                "x": -976.7655,
+                "z": -501.868347
+              },
+              "mapTracked": true
+            },
+            "priority": 20,
+            "HasGoal": true
+          },
+          {
+            "missionId": "ARRIVAL.GREAT_BEYOND",
+            "id": "GATEWAY",
+            "description": "Доктор Рама считает, что теперь мы сможем взаимодействовать с артефактом шлюза.",
+            "progress": 0,
+            "maxProgress": 1,
+            "startTime": 1115.63086,
+            "age": 296.2112,
+            "playerCoord": {
+              "universe": 0,
+              "ux": 5,
+              "uz": 5,
+              "x": -44.62338,
+              "z": -812.9123
+            },
+            "goal": {
+              "goalId": "ARRIVAL.GATEWAY",
+              "clearProximity": 120.0,
+              "lastKnown": {
+                "universe": 0,
+                "ux": 5,
+                "uz": 5,
+                "x": 251.577057,
+                "z": -859.74054
+              },
+              "mapTracked": true
+            },
+            "priority": 20,
+            "HasGoal": true
+          }
+        ],
+        "activeNodeIndices": [
+          1,
+          5,
+          1,
+          0,
+          2
+        ]
       }
     ],
     "currentEnding": {
@@ -4574,12 +4666,12 @@
       "universe": 0,
       "ux": 5,
       "uz": 5,
-      "x": 698.398132,
-      "z": -321.909515
+      "x": -44.9261627,
+      "z": -813.001
     },
     "playerShip": {
       "shipDesignId": "DEFAULT.SMALL_MISSILES",
-      "rotation": 228.025314,
+      "rotation": 265.870728,
       "scale": 0.0,
       "modules": [
         {
@@ -4600,7 +4692,7 @@
           },
           "rot": 0,
           "mirrored": false,
-          "health": 3.09128642
+          "health": 6.0
         },
         {
           "moduleId": "ENGINE_1",
@@ -4620,7 +4712,7 @@
           },
           "rot": 0,
           "mirrored": false,
-          "health": 0.0
+          "health": 6.0
         },
         {
           "moduleId": "WEDGE_0B",
@@ -4630,7 +4722,7 @@
           },
           "rot": -2,
           "mirrored": false,
-          "health": 0.0
+          "health": 3.0
         },
         {
           "moduleId": "WEDGE_0B",
@@ -4640,7 +4732,7 @@
           },
           "rot": 0,
           "mirrored": false,
-          "health": 0.0
+          "health": 3.0
         },
         {
           "moduleId": "REACTOR_1",
@@ -4650,7 +4742,7 @@
           },
           "rot": 0,
           "mirrored": false,
-          "health": 1.94118953
+          "health": 5.0
         },
         {
           "moduleId": "PLASMA_1",
@@ -4670,7 +4762,7 @@
           },
           "rot": 0,
           "mirrored": false,
-          "health": 7.53170347
+          "health": 8.0
         },
         {
           "moduleId": "REACTOR_1",
@@ -4703,16 +4795,6 @@
           "health": 3.0
         },
         {
-          "moduleId": "WING_2",
-          "origin": {
-            "x": 1,
-            "y": -1
-          },
-          "rot": 0,
-          "mirrored": true,
-          "health": 2.51680851
-        },
-        {
           "moduleId": "LATERAL_0",
           "origin": {
             "x": -3,
@@ -4720,17 +4802,7 @@
           },
           "rot": 0,
           "mirrored": true,
-          "health": 0.0
-        },
-        {
-          "moduleId": "WING_2",
-          "origin": {
-            "x": -3,
-            "y": -1
-          },
-          "rot": 7,
-          "mirrored": false,
-          "health": 0.0
+          "health": 2.0
         },
         {
           "moduleId": "LATERAL_0",
@@ -4741,11 +4813,41 @@
           "rot": 0,
           "mirrored": false,
           "health": 2.0
+        },
+        {
+          "moduleId": "WING_2",
+          "origin": {
+            "x": -2,
+            "y": 1
+          },
+          "rot": 1,
+          "mirrored": false,
+          "health": 4.0
+        },
+        {
+          "moduleId": "WING_2",
+          "origin": {
+            "x": -3,
+            "y": -1
+          },
+          "rot": 1,
+          "mirrored": false,
+          "health": 4.0
+        },
+        {
+          "moduleId": "WEDGE_0B",
+          "origin": {
+            "x": 1,
+            "y": -1
+          },
+          "rot": 0,
+          "mirrored": false,
+          "health": 3.0
         }
       ],
       "moduleHealthMultiplier": 1.0,
-      "maxHealth": 88.0,
-      "maxSize": 16.0,
+      "maxHealth": 91.0,
+      "maxSize": 16.25,
       "profileType": "SimpleAgent",
       "spawnOrigin": {
         "universe": 0,
@@ -4754,9 +4856,9 @@
         "x": 0.0,
         "z": 0.0
       },
-      "lastVisibility": 330.0,
+      "lastVisibility": 331.25,
       "lastDisposition": 1000.0,
-      "lastActive": 1060.2873247879324,
+      "lastActive": 1116.5172980367206,
       "disabled": false,
       "persistentId": "PLAYER",
       "prefabName": "Ship",
@@ -4764,21 +4866,21 @@
         "universe": 0,
         "ux": 5,
         "uz": 5,
-        "x": 698.398132,
-        "z": -321.909515
+        "x": -44.9261627,
+        "z": -813.001
       },
       "factionId": "DEFAULT.PLAYER",
       "discovered": false
     },
     "playerResources": {
-      "ALUMINUM": 1075,
+      "ALUMINUM": 1053,
       "PLATINUM": 112,
       "COPPER": 1008,
       "YTTRIUM": 100,
       "CHIRALITE": 99,
       "TITANIUM": 976,
-      "GOLD": 91,
-      "IRIDIUM": 2,
+      "GOLD": 96,
+      "IRIDIUM": 1,
       "SILVER": 1000,
       "URANIUM": 0,
       "DIBERYLLIUM": 0,
@@ -4788,7 +4890,7 @@
       "METALLIC_HELIUM": 0,
       "ADAMANTINE": 0
     },
-    "targetDesignId": "25z16",
+    "targetDesignId": "25a16",
     "missiles": 0,
     "potentialMissiles": 0,
     "fighters": 0,
@@ -4796,10 +4898,10 @@
     "battlestationsCooldown": 0.0,
     "shieldCharge": 0.0,
     "havokCharge": 0.0,
-    "researchPoints": 1025,
-    "totalResearchPoints": 1070,
-    "anomaliesCompleted": 1,
-    "distanceFlown": 10005.734940558134,
+    "researchPoints": 280,
+    "totalResearchPoints": 1130,
+    "anomaliesCompleted": 2,
+    "distanceFlown": 11277.139627096438,
     "swatch": {
       "id": "DEFAULT.STARCOM",
       "plating1": {
@@ -4915,7 +5017,7 @@
   "phenomenaData": {
     "emissaryData": {
       "destinations": [],
-      "timer": 1071.54614
+      "timer": 1128.55859
     }
   },
   "proceduralData": {
@@ -5224,7 +5326,7 @@
     }
   },
   "shipLogData": {
-    "index": 34,
+    "index": 41,
     "entries": [
       {
         "id": 1,
@@ -5835,6 +5937,132 @@
         "summary": "\"<i>Если мы собираемся регулярно попадать под огонь, я бы хотела предложить...</i>\"",
         "intro": "<i>Covan</i>: 11/18/2641 3:45:00 AM at 5.64 x 5.44 Неизвестный космос, запись в журнале экипажа",
         "details": "кдт Jennifer Cygnus-Lee (Тактика):\n\nЕсли мы собираемся регулярно попадать под огонь, я бы хотела предложить «Обучение боевых постов» в качестве приоритетного направления исследований во время следующего визита на «Келено»."
+      },
+      {
+        "id": 35,
+        "type": 2,
+        "gameTime": 1062,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": 698.391968,
+          "z": -321.909515
+        },
+        "showMapPin": false,
+        "spriteId": "ARRIVAL.Anomalies/TheRing",
+        "categoryText": "Аномалия планеты: Погребённое кольцо",
+        "summary": "<i>Аномалия представляет собой частично закопанный кольцеобразный артефакт...</i>",
+        "intro": "11/18/2641 4:55:00 AM <i>«Covan», посадочный модуль SCS-01</i>\tОтчёт о планетарной аномалии в 5.64 x 5.44 Неизвестный космос",
+        "details": "Аномалия представляет собой частично закопанный кольцеобразный артефакт диаметром около 100 метров.\n\nНесмотря на технологическую продвинутость, сооружение демонстрирует признаки незавершённого проектирования, что позволяет предположить, что это было экспериментальное устройство или прототип.\n\nкдт Kepler (сработал навык Наблюдение): <i>Скалы и грязь поблизости не окислились, что говорит о том, что раскопки были произведены совсем недавно.</i>\n\nкдт Gliese отмечает, что, хотя конструкция слишком велика для транспортировки, в ней есть позолоченные разъёмы, ведущие к тому, что, по-видимому, является компонентом для хранения данных.\n\nЕсли будет подано питание, можно будет получить доступ к данным.\n\t+5 Золото\n\nПроцесс оказывается на удивление сложным: артефакт самым неожиданным образом реагирует на энергию, поступающую от посадочного модуля.\n\nПри должном внимании кдт Gliese способен поддерживать мощность, достаточную для извлечения данных, но не повреждающую артефакт или посадочный модуль.\n"
+      },
+      {
+        "id": 36,
+        "type": 1,
+        "gameTime": 1068,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": 750.158936,
+          "z": -375.184448
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_FIRST_OFFICER",
+        "categoryText": "Лейтенант Эйвери",
+        "summary": "\"<i>Данные, извлечённые из погребённого кольца, представляют собой экзотическое...</i>\"",
+        "intro": "<i>Covan</i>: 11/18/2641 5:25:00 AM at 5.65 x 5.42 Неизвестный космос, запись в журнале экипажа",
+        "details": "Лейтенант Эйвери:\n\nДанные, извлечённые из погребённого кольца, представляют собой экзотическое математическое описание скачкового пространства. Возможно, система координат?"
+      },
+      {
+        "id": 37,
+        "type": 1,
+        "gameTime": 1091,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": 323.0421,
+          "z": -797.26
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_FIRST_OFFICER",
+        "categoryText": "Лейтенант Эйвери",
+        "summary": "\"<i>Должно быть, это тот самый артефакт, о котором говорила доктор Рама. Тот,...</i>\"",
+        "intro": "<i>Covan</i>: 11/18/2641 7:20:00 AM at 5.56 x 5.34 Неизвестный космос, запись в журнале экипажа",
+        "details": "Лейтенант Эйвери:\n\nДолжно быть, это тот самый артефакт, о котором говорила доктор Рама. Тот, кто его построил, должен обладать очень развитыми инженерными способностями.\n"
+      },
+      {
+        "id": 38,
+        "type": 1,
+        "gameTime": 1107,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": 92.96976,
+          "z": -797.512146
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_CREW_5",
+        "categoryText": "кдт Cassie Pirx (Астронаука)",
+        "summary": "\"<i>Верхние слои атмосферы этой планеты создают своеобразное световое шоу, но...</i>\"",
+        "intro": "<i>Covan</i>: 11/18/2641 8:40:00 AM at 5.52 x 5.34 Неизвестный космос, запись в журнале экипажа",
+        "details": "кдт Cassie Pirx (Астронаука):\n\nВерхние слои атмосферы этой планеты создают своеобразное световое шоу, но оно находится далеко за пределами видимого спектра в дальнем ультрафиолетовом диапазоне. Это раскрывает некоторые необычные аспекты солнечной радиации."
+      },
+      {
+        "id": 39,
+        "type": 4,
+        "gameTime": 1115,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -44.62338,
+          "z": -812.9123
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_DR_RAMA",
+        "categoryText": "Журнал связи: Доктор Рама",
+        "summary": "<i>Доктор Рама: \"У меня была возможность изучить объект, найденный нашей...</i>",
+        "intro": "11/18/2641 9:20:00 AM <i>Covan</i>\t Стенограмма журнала связи",
+        "details": "Доктор Рама: \"У меня была возможность изучить объект, найденный нашей командой на заставе.\n\nКак я и подозревала, ближайший артефакт — генератор червоточин. Найденный нами объект позволяет нам с ним общаться. Последнюю часть головоломки я вывела из обследования вашей командой закопанного кольца.\"\n\nДоктор Рама: \"Координаты закодированы как математические формулы, описывающие скачковое пространство. Знание конкретных формул определения местоположения действует как своего рода ключ. Моя гипотеза состоит в том, что если мы введём эту формулу в генератор червоточин, он создаст червоточину в отдалённой точке космоса.\n\nМы, то есть вы, должны проверить эту гипотезу, активировав ближайший артефакт и войдя в его червоточину.\n\"\n\n<i>Cmd Covan: А в том месте будет ещё один шлюз, через который мы сможем вернуться?\n</i>\n\nДоктор Рама: \"В лучшем случае, да.\n\nВ худшем случае вы окажетесь за световые годы от нас и вам придётся возвращаться через обычное пространство. А лаборатория останется в моем распоряжении.\n\nНе забудьте захватить побольше еды.\n\"\n"
+      },
+      {
+        "id": 40,
+        "type": 4,
+        "gameTime": 1115,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -44.62338,
+          "z": -812.9123
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_VINCE_YU",
+        "categoryText": "Журнал связи: Кммдр Ю\n",
+        "summary": "<i>Кммдр </i>",
+        "intro": "11/18/2641 9:20:00 AM <i>Covan</i>\t Стенограмма журнала связи",
+        "details": "Кммдр Ю\n: \"Археологическая группа сообщила мне о своих выводах. Близлежащий артефакт-кольцо, который, по словам доктора Рамы, можно использовать в качестве транспортного шлюза, был построен сущностью или культурой, называемой «Реликты».\n\nИх технология может помочь нам вновь открыть червоточину с нашей стороны. В любом случае, это намного опережает всё, что есть у нас.\n\"\n\nКммдр Ю\n: \"Исследуйте конечную точку этого шлюза. Если вам удастся найти источник этих кораблей «Красных рейдеров», по возможности нейтрализуйте их.\n\nНо вашим главным приоритетом является поиск подобных артефактов или технологий Реликтов.\n\n\"\n\n<i>Cmd Covan: Мы занимаемся этим.</i>\n\nКммдр Ю\n: \"Было ли что-нибудь ещё?\"\n\n<i>Cmd Covan: Почему эта вселенная-червоточина засекречена?</i>\n\nКммдр Ю\n: \"Это справедливый вопрос.\n\nСовершенно новая вселенная — это крупное открытие. Мы должны хотеть, чтобы все подразделения Старком, а также гражданские сектора изучали это пространство.\n\nНа эту тему среди руководителей подразделений было много споров.\n\"\n\nКммдр Ю\n: \"Окончательное решение, как мне сообщили, заключалось в том, что, если первоначальный двухлетний этап исследования не выявит здесь каких-либо серьезных угроз, Старком сделает общее заявление и расширит исследования.\n\nЯ подозреваю, что недавние события могут изменить этот график.\n\"\n"
+      },
+      {
+        "id": 41,
+        "type": 1,
+        "gameTime": 1116,
+        "coord": {
+          "universe": 0,
+          "ux": 5,
+          "uz": 5,
+          "x": -44.9261627,
+          "z": -813.001
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_FIRST_OFFICER",
+        "categoryText": "Лейтенант Эйвери",
+        "summary": "\"<i>Экипаж занял боевые посты. Это позволяет им кратковременно, но существенно...</i>\"",
+        "intro": "<i>Covan</i>: 11/18/2641 9:25:00 AM at 5.49 x 5.34 Неизвестный космос, запись в журнале экипажа",
+        "details": "Лейтенант Эйвери:\n\nЭкипаж занял боевые посты. Это позволяет им кратковременно, но существенно повысить эффективность работы корабельных систем. Это ускорит ремонт, выработку энергии и эффективность повреждённых компонентов."
       }
     ]
   },
@@ -5941,6 +6169,12 @@
         "announcer": "Логистика",
         "news": "Дневной лимит кофе в магазине теперь ограничен 200 мл, а для сотрудников исследовательских лабораторий — 300 мл.\n\nПожалуйста, обращайтесь со своими вопросами и проблемами к руководителю вашего подразделения, а не к логистике.",
         "channel": "CELAENO"
+      },
+      {
+        "gameTime": 1068.026,
+        "announcer": "Логистика",
+        "news": "Сенсоры дальнего обнаружения сообщают, что «[SHIP_NAME]» на курсе. 2-й группе грузчиков прибыть к причалу.",
+        "channel": "CELAENO"
       }
     ],
     "stationData": [
@@ -5967,7 +6201,25 @@
         "DEFAULT.REACTOR_1",
         "DEFAULT.XENO",
         "DEFAULT.CREW_SKILLS",
-        "DEFAULT.ENGINES_TURBO"
+        "DEFAULT.ENGINES_TURBO",
+        "DEFAULT.REMNANT",
+        "DEFAULT.THERMAL_VIS",
+        "DEFAULT.ENGINES_THRUST_1",
+        "DEFAULT.HANDLING_1",
+        "DEFAULT.PLASMA_DPE_1",
+        "DEFAULT.PLASMA_RANGE_1",
+        "DEFAULT.PLASMA_SPEED_1",
+        "DEFAULT.PLASMA_ROTATE_1",
+        "DEFAULT.PLASMA_FOCUS",
+        "DEFAULT.ENERGY_PROD_1",
+        "DEFAULT.ENERGY_STORAGE_1",
+        "DEFAULT.BATTLESTATIONS",
+        "DEFAULT.CREW_PLASMA_1",
+        "DEFAULT.DETECT_1",
+        "DEFAULT.TRACOR_SPLIT_1",
+        "DEFAULT.TRACTOR_BOOST_1",
+        "DEFAULT.TRACTOR_RANGE_1",
+        "DEFAULT.BATTLESTATIONS_COOLDOWN_1"
       ],
       "PIRATES.BROGIDAR": [
         "DEFAULT.FIXED_PUNCHTHRU_1"
@@ -5985,7 +6237,30 @@
       "ARRIVAL.ALETHEIA": "DEFAULT.PLAYER"
     },
     "techsSeen": [
-      "DEFAULT.ENGINES_TURBO"
+      "DEFAULT.ENGINES_TURBO",
+      "DEFAULT.THERMAL_VIS",
+      "DEFAULT.ENGINES_THRUST_1",
+      "DEFAULT.HANDLING_1",
+      "DEFAULT.PLASMA_DPE_1",
+      "DEFAULT.PLASMA_RANGE_1",
+      "DEFAULT.PLASMA_SPEED_1",
+      "DEFAULT.PLASMA_ROTATE_1",
+      "DEFAULT.PLASMA_FOCUS",
+      "DEFAULT.ENERGY_PROD_1",
+      "DEFAULT.ENERGY_STORAGE_1",
+      "DEFAULT.BATTLESTATIONS",
+      "DEFAULT.CREW_PLASMA_1",
+      "DEFAULT.DETECT_1",
+      "DEFAULT.VIEWPORT_1",
+      "DEFAULT.XENO",
+      "DEFAULT.TRACOR_SPLIT_1",
+      "DEFAULT.TRACTOR_BOOST_1",
+      "DEFAULT.TRACTOR_RANGE_1",
+      "DEFAULT.SELF_CARE",
+      "DEFAULT.RESOURCE_DROP_1",
+      "DEFAULT.CREW_REPAIR",
+      "DEFAULT.CREW_SCAN_1",
+      "DEFAULT.BATTLESTATIONS_COOLDOWN_1"
     ]
   },
   "tradeSaveData": {
@@ -6029,7 +6304,7 @@
           {
             "$type": "WarpNexusData, Assembly-CSharp",
             "isOn": false,
-            "sectorExplored": false,
+            "sectorExplored": true,
             "persistentId": "ARRIVAL.GATEWAY",
             "tags": "",
             "prefabName": "Warp Nexus",
@@ -6065,7 +6340,7 @@
             "size": 250.0,
             "seed": 435402125,
             "interaction": {
-              "anomalyState": 0,
+              "anomalyState": 6,
               "stationId": "",
               "hasTrade": false,
               "instanceVisits": 0
@@ -6088,11 +6363,11 @@
             "size": 90.93236,
             "seed": 1662691359,
             "interaction": {
-              "anomalyState": 4,
+              "anomalyState": 6,
               "anomalyId": "ARRIVAL.BURIED_RING",
               "stationId": "",
               "hasTrade": false,
-              "instanceVisits": 0
+              "instanceVisits": 1
             },
             "procAnomalyCandidate": false,
             "placementPadding": 0.0,
@@ -6134,8 +6409,8 @@
           {
             "$type": "StarData, Assembly-CSharp",
             "luminosity": 2.2,
-            "explored": false,
-            "dragReduced": false,
+            "explored": true,
+            "dragReduced": true,
             "depleted": false,
             "persistentId": "ARRIVAL.CELAENO_STAR",
             "prefabName": "Yellow Star",
@@ -6153,8 +6428,9 @@
             "$type": "PlanetData, Assembly-CSharp",
             "size": 175.0,
             "seed": 0,
+            "scanDiscovery": "SCAN_DISCOVERIES.ULTRA_BOREALIS",
             "interaction": {
-              "anomalyState": 0,
+              "anomalyState": 6,
               "stationId": "",
               "hasTrade": false,
               "instanceVisits": 0
@@ -6291,7 +6567,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "DEFAULT.STARCOM_BASE",
-            "rotation": 34.58708,
+            "rotation": 228.484329,
             "scale": 2.3,
             "modules": [
               {
@@ -6610,7 +6886,7 @@
             },
             "lastVisibility": 700.0,
             "lastDisposition": 999.0,
-            "lastActive": 1060.2873247879324,
+            "lastActive": 1116.5172980367206,
             "disabled": false,
             "persistentId": "ARRIVAL.CELAENO",
             "prefabName": "Ship",
@@ -8750,7 +9026,7 @@
               "x": -976.7655,
               "z": -501.868347
             },
-            "discovered": false
+            "discovered": true
           },
           {
             "$type": "FlingerData, Assembly-CSharp",
@@ -40274,6 +40550,6 @@
   },
   "startBuild": 21519,
   "gameId": "cd04d9eded8a456e9b9de31ffe186a39",
-  "gameTime": 1060.28735,
-  "playTime": 2352.32666
+  "gameTime": 1116.91528,
+  "playTime": 2752.89917
 }

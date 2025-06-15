@@ -4,6 +4,9 @@
 - Add Data/Saves.zip
 - Start new with difficulty 2
 - Add 100-1000 materials and XP to quick start
+- 25a16 
+	- All in Plazma, Salvage and Power
+	- needs Tactic + 1 to All
 
 ## Start Unknown Space with RU localisation
 - First Dock
