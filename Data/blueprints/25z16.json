@@ -36,6 +36,16 @@
       "health": 8.0
     },
     {
+      "moduleId": "PLASMA_1",
+      "origin": {
+        "x": -1,
+        "y": 0
+      },
+      "rot": 0,
+      "mirrored": false,
+      "health": 6.0
+    },
+    {
       "moduleId": "WEDGE_0B",
       "origin": {
         "x": -1,
@@ -56,14 +66,44 @@
       "health": 3.0
     },
     {
+      "moduleId": "REACTOR_1",
+      "origin": {
+        "x": -1,
+        "y": -1
+      },
+      "rot": 0,
+      "mirrored": false,
+      "health": 5.0
+    },
+    {
       "moduleId": "PLASMA_1",
+      "origin": {
+        "x": -1,
+        "y": -2
+      },
+      "rot": 0,
+      "mirrored": false,
+      "health": 6.0
+    },
+    {
+      "moduleId": "ENGINE_1",
+      "origin": {
+        "x": -1,
+        "y": -3
+      },
+      "rot": 0,
+      "mirrored": false,
+      "health": 8.0
+    },
+    {
+      "moduleId": "REACTOR_1",
       "origin": {
         "x": 0,
         "y": -1
       },
       "rot": 0,
       "mirrored": false,
-      "health": 6.0
+      "health": 5.0
     },
     {
       "moduleId": "ENGINE_1",
@@ -86,14 +126,24 @@
       "health": 3.0
     },
     {
-      "moduleId": "WEDGE_0B",
+      "moduleId": "WING_2",
       "origin": {
         "x": 1,
         "y": -1
       },
       "rot": 0,
-      "mirrored": false,
-      "health": 3.0
+      "mirrored": true,
+      "health": 4.0
+    },
+    {
+      "moduleId": "LATERAL_0",
+      "origin": {
+        "x": -3,
+        "y": -2
+      },
+      "rot": 0,
+      "mirrored": true,
+      "health": 2.0
     },
     {
       "moduleId": "WING_2",
@@ -101,59 +151,19 @@
         "x": -3,
         "y": -1
       },
-      "rot": 1,
+      "rot": 7,
       "mirrored": false,
       "health": 4.0
     },
     {
-      "moduleId": "PLASMA_1",
+      "moduleId": "LATERAL_0",
       "origin": {
-        "x": -1,
+        "x": 1,
         "y": -2
       },
       "rot": 0,
       "mirrored": false,
-      "health": 6.0
-    },
-    {
-      "moduleId": "REACTOR_1",
-      "origin": {
-        "x": -1,
-        "y": -1
-      },
-      "rot": 0,
-      "mirrored": false,
-      "health": 5.0
-    },
-    {
-      "moduleId": "ENGINE_1",
-      "origin": {
-        "x": -1,
-        "y": -3
-      },
-      "rot": 0,
-      "mirrored": false,
-      "health": 8.0
-    },
-    {
-      "moduleId": "PLASMA_1",
-      "origin": {
-        "x": -1,
-        "y": 0
-      },
-      "rot": 0,
-      "mirrored": false,
-      "health": 6.0
-    },
-    {
-      "moduleId": "WING_2",
-      "origin": {
-        "x": -2,
-        "y": 1
-      },
-      "rot": 1,
-      "mirrored": false,
-      "health": 4.0
+      "health": 2.0
     }
   ],
   "scale": 0.0,
