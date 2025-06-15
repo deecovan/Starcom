@@ -7,6 +7,7 @@
 - 25a16 
 	- All in Plazma, Salvage and Power
 	- needs Tactic + 1 to All
+	- Add 4 Unspend Crew Points
 
 ## Start Unknown Space with RU localisation
 - First Dock
