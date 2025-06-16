@@ -1,5 +1,9 @@
 # Starcom GitHub repo 
 
+## 06.16 1624
+- Focus on Missiles and Plasma Add Galaxy and MPStarCom screens
+- Add Galaxy and MP StarCom screens
+
 ## 06.15 2250 Backup saves and start new
 - Add Data/Saves.zip
 - Start new with difficulty 2
