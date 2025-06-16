@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.168 seconds
+- Completed reload, in  0.234 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.735800 ms
+UnloadTime: 2.537200 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -32,30 +32,30 @@ WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
 WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
 WwiseUnity: Sound engine initialized successfully.
 Preloading DEFAULT
+Steam knows about 0 achievements
 Preloading ALPHA
 Preloading ARRIVAL
 Preloading BEYOND
 Preloading REMNANT_SPACE
-Steam knows about 0 achievements
-Bootstrapped story 'FOREST'
 StoryId was null
 No starting story found: ''
-Bootstrapped story 'CXTA'
 No starting location
-Bootstrapped story 'FOREST'
-Bootstrapped story 'CXTA'
-#8148 637.1922 sec: FPS: 0.09192397 Mission Update: 0.00163235
-#16698 937.2266 sec: FPS: 14.53384 Mission Update: 0.0023641
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Bootstrapped story 'GORYR'
+#10837 408.4329 sec: FPS: 14.18651 Mission Update: 0.00393143
+Cannot begin survey: HOSTILES_NEAR
+Bootstrapped story 'REMNANT_MINIS'
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Story 'BEYOND' already started
+#19401 708.4587 sec: FPS: 28.78932 Mission Update: 0.00354879
+Bootstrapped story 'EMISSARY'
+Activating emissary for 'EmissaryDestination'
+Attempted to trigger an unknown Steam Achievement: 'EMISSARY'
+Bootstrapped story 'REMNANTS_2'
+Bootstrapped story 'HELLO'
+#26981 1008.487 sec: FPS: 29.89781 Mission Update: 0.00253806
 Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
@@ -66,16 +66,37 @@ Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#35427 1308.508 sec: FPS: 25.91858 Mission Update: 0.00302352
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Attempted to trigger an unknown Steam Achievement: 'EXPLORER_1'
+#43882 1608.55 sec: FPS: 27.06906 Mission Update: 0.00345048
+Attempted to trigger an unknown Steam Achievement: 'ERMYR_BRIBE'
+#52458 1908.558 sec: FPS: 29.62749 Mission Update: 0.00262608
+Bootstrapped story 'CODEX_SHAPE'
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-#25387 1237.234 sec: FPS: 29.27108 Mission Update: 0.00231824
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Setting up 2 worker threads for Enlighten.
-  Thread -> id: c18 -> priority: 1 
-  Thread -> id: 2104 -> priority: 1 
+#60995 2208.592 sec: FPS: 29.88327 Mission Update: 0.00184402
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z16.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z17.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z16.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z17.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z16.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z17.png
+#69785 2508.617 sec: FPS: 30.05136 Mission Update: 0.00215484
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z16.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z17.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z17.png
+No image file C:\Users\dmytr\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25z17.png
+#78467 2808.629 sec: FPS: 28.99481 Mission Update: 0.00210992
+Clearing thermal vis
+#87228 3108.633 sec: FPS: 17.05246 Mission Update: 0.00440404
