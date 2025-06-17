@@ -1,5 +1,10 @@
 # Starcom GitHub repo 
 
+## 06.17 Start Cabine B
+- Proto 30a30 
+- Need PlasmaII and ReactorII 
+- Than Missiles
+
 ## 06.16 1624
 - Focus on Missiles and Plasma Add Galaxy and MPStarCom screens
 - Add Galaxy and MP StarCom screens

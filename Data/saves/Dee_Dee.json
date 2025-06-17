@@ -100,7 +100,8 @@
           "ARRIVAL.PLAYER_YU_CLASSIFIED",
           "DEFAULT.PLAYER_YU_CREW",
           "BEYOND.PLAYER_YU_FACTIONS",
-          "GORYR.PLAYER_YU_GORYR"
+          "GORYR.PLAYER_YU_GORYR",
+          "ARRIVAL.PLAYER_YU_DEBRIS"
         ]
       },
       {
@@ -324,7 +325,7 @@
     ]
   },
   "crewData": {
-    "totalXP": 22,
+    "totalXP": 24,
     "unspentPoints": 0,
     "currentTeamLevel": 1,
     "crew": [
@@ -1079,23 +1080,23 @@
       },
       "DEFAULT.STARCOM": {
         "DEFAULT.REMNANT": -0.212296247,
-        "ARRIVAL.RED_RAIDERS": -2.21713585E-28
+        "ARRIVAL.RED_RAIDERS": -6.895884E-30
       },
       "ARRIVAL.RED_RAIDERS": {
-        "DEFAULT.STARCOM": -6.327453E-28,
-        "DEFAULT.PLAYER": -7.35889E-15,
-        "DEFAULT.ERMYR": -8.74829E-15
+        "DEFAULT.STARCOM": -1.9680064E-29,
+        "DEFAULT.PLAYER": -2.28881167E-16,
+        "DEFAULT.ERMYR": -2.72095173E-16
       },
       "DEFAULT.ERMYR": {
         "DEFAULT.PLAYER": 0.0,
-        "ARRIVAL.RED_RAIDERS": -2.62830725E-18
+        "ARRIVAL.RED_RAIDERS": -8.174735E-20
       },
       "ARRIVAL.ALETHEIA": {
         "DEFAULT.PLAYER": 0.0
       },
       "DEVOUT.DEVOUT": {
-        "DEFAULT.PLAYER": -0.00149778149,
-        "WISKAMUG.WISKAMUG": -3.72494569E-08,
+        "DEFAULT.PLAYER": -4.6584988E-05,
+        "WISKAMUG.WISKAMUG": -1.15855781E-09,
         "DEFAULT.OBSTACLE": -0.66
       },
       "PIRATES.BROGIDAR": {
@@ -1116,7 +1117,7 @@
       "ARRIVAL.RED_RAIDERS": 505.135345,
       "DEFAULT.PLAYER": 46.8677979,
       "DEVOUT.DEVOUT": 641.762268,
-      "DEFAULT.OBSTACLE": 7.09269
+      "DEFAULT.OBSTACLE": 7.65769
     },
     "factionsMet": [
       "DEFAULT.STARCOM",
@@ -1156,26 +1157,25 @@
   },
   "gameVarData": {
     "numberVars": {
-      "COMETS.COMETS-4_delay": 4443.646,
-      "ARRIVAL.RESEARCH_LAB-9_delay": 5250.48,
+      "COMETS.COMETS-4_delay": 4736.61865,
+      "ARRIVAL.RESEARCH_LAB-9_delay": 5543.45264,
       "REMNANT_SPACE.RAMA_SCIENCE_POINTS": 1675.0,
-      "DEFAULT.ANALYTICS-4_delay": 2601.79834,
+      "DEFAULT.ANALYTICS-4_delay": 2894.78516,
       "DEFAULT.ANALYTICS-13_delay": 93.86819,
       "PIRATES.PAYMENTS": 1.0,
       "ALPHA.STABILIZERS": 2.0,
-      "DEFAULT.DEEP_SPACE-9_lull": 86.33706,
-      "WISKAMUG.WISKAMUG-23_delay": 273.341217,
+      "DEFAULT.DEEP_SPACE-9_lull": 16.2573071,
+      "WISKAMUG.WISKAMUG-23_delay": 566.320435,
       "COMETS.COMETS": 2.0,
       "REMNANT_SPACE.RAMA_SCIENCE_QUESTIONS": 1.0,
-      "BEYOND.RED_RAIDERS-6_delay": 3916.33154,
-      "CXTA.CXTA_FREIGHTERS-2_delay": 428.268372,
+      "BEYOND.RED_RAIDERS-6_delay": 4209.31934,
+      "CXTA.CXTA_FREIGHTERS-2_delay": 721.2467,
       "VAULT.GLYPHS": 2.0,
       "PIRATES.SUBSCRIPTION": 5383.32568,
       "CONFLICT.MOISTURE_MODIFIER": 2.0,
-      "PIRATES.BROGIDAR-20_delay": 1009.93213,
-      "PIRATES.BROGIDAR-24_delay": 749.6272,
-      "ARRIVAL.ALETHEIA_RETURNS-9_delay": 84.90063,
-      "ARRIVAL.ALETHEIA_RETURNS-9_lull": 86.33706
+      "PIRATES.BROGIDAR-24_delay": 1042.60608,
+      "ARRIVAL.ALETHEIA_RETURNS-9_delay": 268.9862,
+      "ARRIVAL.ALETHEIA_RETURNS-9_lull": 16.2573071
     },
     "flagVars": {
       "SEPHARIAL.LOOP": true,
@@ -1224,7 +1224,8 @@
       "PIRATES.PIRATES_DEMAND": true,
       "PIRATES.PAID_UP": true,
       "DEVOUT.DEVOUT_GIFT": true,
-      "DEEP_SEARCH.SPAWN_MONITOR": true
+      "DEEP_SEARCH.SPAWN_MONITOR": true,
+      "CODEX_SHAPE.NEIGHBOR_FOUND": true
     },
     "stringVars": {
       "DEFAULT.ANOMALY_WHITELIST": "ARRIVAL.CELAENO_OUTPOST"
@@ -1239,7 +1240,8 @@
       "ARRIVAL.HIDDEN_LAUNCH_PAD[2]",
       "DEVOUT.FLINGER_DEBRIS[2]",
       "CONFLICT.MOISTURE_FARM[5]",
-      "DEVOUT.DEVOUT_MISSION[4]"
+      "DEVOUT.DEVOUT_MISSION[4]",
+      "ARRIVAL.METEOR_CRATERS[1]"
     ],
     "nodesSeen": [
       "ALPHA.SCHELL_WORMHOLE[1]",
@@ -1272,7 +1274,9 @@
       "WISKAMUG.WISKAMUG_DEFAULT[1]",
       "WISKAMUG.PLAYER_WISKAMUG_TRADE[5]"
     ],
-    "skillsChecked": [],
+    "skillsChecked": [
+      "ARRIVAL.WATERWORLD::ARRIVAL.WATERWORLD[4]"
+    ],
     "anomaliesSeen": [
       "ARRIVAL.CELAENO_OUTPOST",
       "ARRIVAL.BURIED_RING",
@@ -1298,7 +1302,9 @@
       "DEVOUT.DARK_CITIES",
       "CONFLICT.MOISTURE_FARM",
       "DEVOUT.DEVOUT_MISSION",
-      "ASTEROIDS.REFINERY"
+      "ASTEROIDS.REFINERY",
+      "ARRIVAL.WATERWORLD",
+      "ARRIVAL.METEOR_CRATERS"
     ]
   },
   "itemSaveData": {
@@ -1586,13 +1592,15 @@
       },
       "ARRIVAL.STARCOM_COMPONENTS": {
         "itemId": "ARRIVAL.STARCOM_COMPONENTS",
-        "faction": "",
+        "faction": "DEFAULT.PLAYER",
         "droppable": false,
         "moduleTypeDrop": 0,
-        "analyzed": false,
+        "analyzed": true,
         "frequency": 0.0,
-        "acquiredTime": 0.0,
-        "tags": []
+        "acquiredTime": 6274.287,
+        "tags": [
+          "ARRIVAL.STARCOM_DEBRIS_DROP"
+        ]
       },
       "REMNANT_SPACE.LANCEKEY_JADE": {
         "itemId": "REMNANT_SPACE.LANCEKEY_JADE",
@@ -2988,7 +2996,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 4684.704,
-            "age": 2142.31836,
+            "age": 2497.47119,
             "playerCoord": {
               "universe": 0,
               "ux": -1,
@@ -3024,16 +3032,35 @@
         ]
       },
       {
-        "appearInLog": false,
+        "appearInLog": true,
         "collapsed": false,
         "missionId": "ARRIVAL.USEFUL_JUNK",
         "state": 1,
         "priority": 0,
-        "progressTime": 0.44965680688619614,
+        "progressTime": 6470.2383918216219,
         "stopped": false,
-        "details": [],
+        "details": [
+          {
+            "missionId": "ARRIVAL.USEFUL_JUNK",
+            "id": "XENIUM_CONTROLLER",
+            "description": "Обломки содержат компоненты, которые мич Cygnus-Lee идентифицирует как предположительно принадлежащие военным исследованиям Старком. Возможно, коммодор Ю сможет пролить свет?",
+            "progress": 0,
+            "maxProgress": 1,
+            "startTime": 6470.23828,
+            "age": 40.98351,
+            "playerCoord": {
+              "universe": 0,
+              "ux": 7,
+              "uz": 5,
+              "x": 149.511765,
+              "z": -409.539825
+            },
+            "priority": 10,
+            "HasGoal": false
+          }
+        ],
         "activeNodeIndices": [
-          0
+          3
         ]
       },
       {
@@ -3799,7 +3826,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 5768.35254,
-            "age": 1013.3299,
+            "age": 1368.743,
             "playerCoord": {
               "universe": 0,
               "ux": 8,
@@ -5617,7 +5644,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 2391.8645,
-            "age": 5647.8916,
+            "age": 6003.04443,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -5632,7 +5659,7 @@
         "activeNodeIndices": [
           2,
           0,
-          0,
+          1,
           0
         ]
       },
@@ -5820,7 +5847,7 @@
           }
         ],
         "activeNodeIndices": [
-          3,
+          1,
           2,
           1,
           1,
@@ -5880,14 +5907,14 @@
     "playerRank": 8,
     "playerCoord": {
       "universe": 0,
-      "ux": 7,
-      "uz": 5,
-      "x": -1834.43835,
-      "z": 325.053375
+      "ux": 8,
+      "uz": 4,
+      "x": -2347.89722,
+      "z": 1931.7135
     },
     "playerShip": {
       "shipDesignId": "DEFAULT.SMALL_MISSILES",
-      "rotation": 84.89198,
+      "rotation": 136.686111,
       "scale": 0.0,
       "modules": [
         {
@@ -6225,18 +6252,6 @@
       "maxHealth": 303.0,
       "maxSize": 31.5,
       "profileType": "SimpleAgent",
-      "command": {
-        "$type": "AIPlayerAutopilotCommand, Assembly-CSharp",
-        "destination": {
-          "universe": 0,
-          "ux": 7,
-          "uz": 5,
-          "x": -725.448242,
-          "z": 424.169373
-        },
-        "ThrottledSpeed": -1.0,
-        "UseTurbo": true
-      },
       "spawnOrigin": {
         "universe": 0,
         "ux": 999,
@@ -6244,29 +6259,29 @@
         "x": 0.0,
         "z": 0.0
       },
-      "lastVisibility": 407.5003,
+      "lastVisibility": 407.5,
       "lastDisposition": 1000.0,
-      "lastActive": 6202.14984210371,
+      "lastActive": 6495.2855483040912,
       "disabled": false,
       "persistentId": "PLAYER",
       "prefabName": "Ship",
       "coordinates": {
         "universe": 0,
-        "ux": 7,
-        "uz": 5,
-        "x": -1834.43835,
-        "z": 325.053375
+        "ux": 8,
+        "uz": 4,
+        "x": -2347.89722,
+        "z": 1931.7135
       },
       "factionId": "DEFAULT.PLAYER",
       "discovered": false
     },
     "playerResources": {
-      "ALUMINUM": 1340,
+      "ALUMINUM": 1398,
       "PLATINUM": 89,
       "COPPER": 834,
-      "YTTRIUM": 246,
+      "YTTRIUM": 260,
       "CHIRALITE": 65,
-      "TITANIUM": 292,
+      "TITANIUM": 308,
       "GOLD": 46,
       "IRIDIUM": 3,
       "SILVER": 676,
@@ -6288,8 +6303,8 @@
     "havokCharge": 0.0,
     "researchPoints": 105,
     "totalResearchPoints": 2520,
-    "anomaliesCompleted": 23,
-    "distanceFlown": 327444.23701785336,
+    "anomaliesCompleted": 25,
+    "distanceFlown": 338201.66258520912,
     "swatch": {
       "id": "DEFAULT.STARCOM",
       "plating1": {
@@ -6405,7 +6420,7 @@
   "phenomenaData": {
     "emissaryData": {
       "destinations": [],
-      "timer": 811.3309
+      "timer": 1108.6167
     }
   },
   "proceduralData": {
@@ -6851,7 +6866,7 @@
     }
   },
   "shipLogData": {
-    "index": 140,
+    "index": 144,
     "entries": [
       {
         "id": 1,
@@ -9370,6 +9385,78 @@
         "summary": "\"<i>Теперь, когда мы исследовали модель корпуса Исследователя, мы можем, при...</i>\"",
         "intro": "<i>Covan</i>: 12/5/2641 1:10:00 PM at 5.49 x 5.34 Неизвестный космос, запись в журнале экипажа",
         "details": "Лейтенант Милтон:\n\nТеперь, когда мы исследовали модель корпуса Исследователя, мы можем, при наличии ресурсов, создавать корабли большего размера. Выберите «Новый корабль» в правом нижнем углу и выберите «Исследователь»."
+      },
+      {
+        "id": 141,
+        "type": 2,
+        "gameTime": 6245,
+        "coord": {
+          "universe": 0,
+          "ux": 7,
+          "uz": 5,
+          "x": -706.2535,
+          "z": 328.426483
+        },
+        "showMapPin": false,
+        "spriteId": "ARRIVAL.Anomalies/Waterworld",
+        "categoryText": "Аномалия планеты: Пленник морского мира",
+        "summary": "<i>Похоже, какая-то климатическая катастрофа в прошлом столетии привела к...</i>",
+        "intro": "12/6/2641 4:50:00 AM <i>«Covan», посадочный модуль SCS-01</i>\tОтчёт о планетарной аномалии в 7.36 x 5.57 Неизвестный космос",
+        "details": "Похоже, какая-то климатическая катастрофа в прошлом столетии привела к затоплению большей части поверхности этой планеты.\n\nСудя по видимым технологиям, планета находилась в докосмической эпохе.\n\nКоманда приземляется на вершине одного из немногих высоких сооружений, выступающих над поверхностью моря, откуда исходит сигнал об аномалии.\n\nПока мич Gliese осматривает архитектуру, внезапно открывается люк, погружая его в солёную воду. Прежде чем команда успевает отреагировать, его утаскивают в затопленное здание крабоподобные существа, вооружённые чем-то вроде подводных ружей.\n\nК счастью, телеметрия скафандра мич Gliese показывает, что он не пострадал, и ещё есть запас кислорода на несколько часов.\n\nОсновываясь на наблюдениях за физиологией инопланетян, мич Rhea правильно предполагает, что серия низкоэнергетических электрических импульсов оглушит их, что позволит команде войти и обезоружить инопланетян.\n\nК тому времени, как они приходят в себя, похитители превращаются в пленников. Существа приносят свои извинения и возмещают ущерб за «недоразумение».\n\t+33 Алюминий\n"
+      },
+      {
+        "id": 142,
+        "type": 1,
+        "gameTime": 6266,
+        "coord": {
+          "universe": 0,
+          "ux": 7,
+          "uz": 5,
+          "x": -530.242249,
+          "z": 606.5648
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_FIRST_OFFICER",
+        "categoryText": "Лейтенант Эйвери",
+        "summary": "\"<i>Дежавю</i>\"",
+        "intro": "<i>Covan</i>: 12/6/2641 6:35:00 AM at 7.39 x 5.62 Неизвестный космос, запись в журнале экипажа",
+        "details": "Лейтенант Эйвери:\n\nДежавю.\n\nНа этих контейнерах маркировка, похожая на маркировку тех, что разлетелись из грузового судна возле «Майи». Интересно, как они сюда попали?"
+      },
+      {
+        "id": 143,
+        "type": 2,
+        "gameTime": 6294,
+        "coord": {
+          "universe": 0,
+          "ux": 7,
+          "uz": 5,
+          "x": -222.232635,
+          "z": 790.34375
+        },
+        "showMapPin": false,
+        "spriteId": "ARRIVAL.Anomalies/MeteorCraters",
+        "categoryText": "Аномалия планеты: Метеоритные кратеры",
+        "summary": "<i>Несколько сотен квадратных километров поверхности этой планеты испещрены...</i>",
+        "intro": "12/6/2641 8:55:00 AM <i>«Covan», посадочный модуль SCS-01</i>\tОтчёт о планетарной аномалии в 7.46 x 5.66 Неизвестный космос",
+        "details": "Несколько сотен квадратных километров поверхности этой планеты испещрены кратерами от падения метеоритов.\n\nВ большинстве кратеров практически нет обломков, поскольку метеорит испарился при ударе. Но в некоторых из них сохранились куски шлака.\n\nКоманда проводит серию коротких полётов в посадочном модуле, легко собирая их.\n\nмич Pirx (сработал навык Астронаука): <i>Очевидно, это произошло из-за полей обломков, вращающихся вокруг этой звезды.</i>\n\t+15 Титан\n\t+10 Иттрий\n"
+      },
+      {
+        "id": 144,
+        "type": 1,
+        "gameTime": 6470,
+        "coord": {
+          "universe": 0,
+          "ux": 7,
+          "uz": 5,
+          "x": 149.511765,
+          "z": -409.539825
+        },
+        "showMapPin": false,
+        "spriteId": "DEFAULT.Portraits/STARCOM_CREW_1",
+        "categoryText": "мич Jennifer Cygnus-Lee (Тактика)",
+        "summary": "\"<i>Хм</i>\"",
+        "intro": "<i>Covan</i>: 12/6/2641 11:35:00 PM at 7.53 x 5.42 Неизвестный космос, запись в журнале экипажа",
+        "details": "мич Jennifer Cygnus-Lee (Тактика):\n\nХм.\n\nЯ видел контроллер такого типа, используемый военными подразделениями в некоторых исследовательских проектах. Выделяется много энергии, но применение в качестве оружия непрактично."
       }
     ]
   },
@@ -11498,11 +11585,11 @@
             "size": 113.6446,
             "seed": 13925019,
             "interaction": {
-              "anomalyState": 0,
+              "anomalyState": 6,
               "anomalyId": "ARRIVAL.METEOR_CRATERS",
               "stationId": "",
               "hasTrade": false,
-              "instanceVisits": 0
+              "instanceVisits": 1
             },
             "procAnomalyCandidate": false,
             "placementPadding": 0.0,
@@ -11522,11 +11609,11 @@
             "size": 86.39103,
             "seed": 1386711124,
             "interaction": {
-              "anomalyState": 0,
+              "anomalyState": 6,
               "anomalyId": "ARRIVAL.WATERWORLD",
               "stationId": "",
               "hasTrade": false,
-              "instanceVisits": 0
+              "instanceVisits": 1
             },
             "procAnomalyCandidate": false,
             "placementPadding": 0.0,
@@ -11543,8 +11630,8 @@
           },
           {
             "$type": "WarpNexusData, Assembly-CSharp",
-            "isOn": false,
-            "sectorExplored": false,
+            "isOn": true,
+            "sectorExplored": true,
             "persistentId": "ARRIVAL.NEIGHBOR_NEXUS",
             "prefabName": "Warp Nexus",
             "coordinates": {
@@ -11554,14 +11641,14 @@
               "x": -725.448242,
               "z": 424.169373
             },
-            "discovered": false
+            "discovered": true
           },
           {
             "$type": "PlanetData, Assembly-CSharp",
             "size": 188.5939,
             "seed": 1531406578,
             "interaction": {
-              "anomalyState": 0,
+              "anomalyState": 6,
               "stationId": "",
               "hasTrade": false,
               "instanceVisits": 0
@@ -11584,9 +11671,9 @@
             "maxObstacles": 20,
             "radius": 150.0,
             "obstacleFactionId": "ARRIVAL.STARCOM_DEBRIS",
-            "currentObstacles": 20,
+            "currentObstacles": 0,
             "initialized": true,
-            "lastUpdateGametime": 6202.543,
+            "lastUpdateGametime": 6495.52148,
             "persistentId": "ARRIVAL.USEFUL_JUNK",
             "prefabName": "Useful Junk",
             "coordinates": {
@@ -11596,16 +11683,16 @@
               "x": -340.9048,
               "z": 657.604431
             },
-            "discovered": false
+            "discovered": true
           },
           {
             "$type": "ObstacleFieldData, Assembly-CSharp",
             "maxObstacles": 40,
             "radius": 180.0,
             "obstacleFactionId": "ARRIVAL.STARCOM_DEBRIS",
-            "currentObstacles": 40,
+            "currentObstacles": 0,
             "initialized": true,
-            "lastUpdateGametime": 6202.543,
+            "lastUpdateGametime": 6495.52148,
             "persistentId": "ARRIVAL.USEFUL_JUNK_2",
             "prefabName": "Useful Junk",
             "coordinates": {
@@ -11615,13 +11702,13 @@
               "x": -84.10425,
               "z": 755.607
             },
-            "discovered": false
+            "discovered": true
           },
           {
             "$type": "StarData, Assembly-CSharp",
             "luminosity": 1.0,
-            "explored": false,
-            "dragReduced": false,
+            "explored": true,
+            "dragReduced": true,
             "depleted": false,
             "persistentId": "ARRIVAL.EAST_NEIGHBOR_STAR",
             "prefabName": "Orange Star",
@@ -17307,7 +17394,7 @@
               "x": -1671.73108,
               "z": 1250.11121
             },
-            "discovered": false
+            "discovered": true
           },
           {
             "$type": "PlanetData, Assembly-CSharp",
@@ -17331,7 +17418,7 @@
               "x": -1000.62305,
               "z": 1315.5415
             },
-            "discovered": false
+            "discovered": true
           },
           {
             "$type": "StarData, Assembly-CSharp",
@@ -46067,6 +46154,21 @@
         "u": 0,
         "x": 7,
         "z": 8
+      },
+      {
+        "u": 0,
+        "x": 7,
+        "z": 2
+      },
+      {
+        "u": 0,
+        "x": 8,
+        "z": 2
+      },
+      {
+        "u": 0,
+        "x": 9,
+        "z": 2
       }
     ],
     "universes": [
@@ -46076,6 +46178,6 @@
   },
   "startBuild": 21519,
   "gameId": "cd04d9eded8a456e9b9de31ffe186a39",
-  "gameTime": 6202.568,
-  "playTime": 11680.501
+  "gameTime": 6495.54736,
+  "playTime": 12048.85
 }

@@ -10,38 +10,111 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.337 seconds
+- Completed reload, in  0.456 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.037800 ms
+UnloadTime: 3.755000 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
+Curl error 6: Could not resolve host: lab.wx3.com
 Found announce override, using instead of server supplied news.
 Steamworks initialized successfully for 1750770, Branch: 
 Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\StreamingAssets\Content\Kepler\Presaves\Arrival_Complete_info.json
 Creating presave for C:\Games\Starcom Unknown Space\Starcom Unknown Space_Data\StreamingAssets\Content\Kepler\Presaves\Post_Prologue_info.json
 Localizing to ru
 Total localization targets: 0, total symbols: 6632
+Cannot resolve destination host
+Server unexpected response: 
 Activating Wwise
 WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
 WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
 WwiseUnity: Sound engine initialized successfully.
-'C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json' does not exist
-Failed to load game data from C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json
-Preloading DEFAULT
 Steam knows about 0 achievements
+Preloading DEFAULT
 Preloading ALPHA
 Preloading ARRIVAL
 Preloading BEYOND
 Preloading REMNANT_SPACE
-'C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json' does not exist
-Failed to load game data from C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json
-'C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json' does not exist
-Failed to load game data from C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json
-'C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json' does not exist
-Failed to load game data from C:/Users/dmytr/AppData/LocalLow/Wx3 Labs, LLC/Starcom Unknown Space\saves\Covan_250616004907.json
+Attempting to delete 2 autosaves...
+Deleting autosave: Arrival_Complete
+Deleting autosave: Post_Prologue
+Deleted 2 autosaves.
+StoryId was null
+No starting story found: ''
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+No starting location
+Bootstrapped story 'ASTEROIDS'
+#13684 385.7891 sec: FPS: 17.04802 Mission Update: 0.00280482
+Cannot set command without ship
+#21869 685.8144 sec: FPS: 29.68654 Mission Update: 0.00302116
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+Cannot interact while scan in progress
+#30601 985.8432 sec: FPS: 30.09921 Mission Update: 0.00266539
+Attempted to trigger an unknown Steam Achievement: 'RAIDER_FACTORY'
+Material ProgressFill doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#38993 1285.853 sec: FPS: 29.99268 Mission Update: 0.00222383
+Clearing thermal vis
+#47850 1585.867 sec: FPS: 29.99634 Mission Update: 0.00191783
+No installed module, aborting
+Clearing thermal vis
+#56603 1885.877 sec: FPS: 30.04034 Mission Update: 0.00204382
+Clearing thermal vis
+#64456 2185.891 sec: FPS: 16.16417 Mission Update: 0.00383535
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#72780 2485.896 sec: FPS: 29.09091 Mission Update: 0.00192082
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.MISSILE_GUIDANCE
+#80839 2785.921 sec: FPS: 29.55267 Mission Update: 0.00285243
+#89616 3085.923 sec: FPS: 29.78909 Mission Update: 0.00313078
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#97739 3385.947 sec: FPS: 29.72424 Mission Update: 0.00186886
+#106605 3685.975 sec: FPS: 29.63106 Mission Update: 0.00215165
+Clearing thermal vis
+#115130 3986.005 sec: FPS: 29.4747 Mission Update: 0.00358185
+Cannot interact while scan in progress
+#123580 4286.017 sec: FPS: 29.18765 Mission Update: 0.00302071
+#131064 4586.03 sec: FPS: 28.75059 Mission Update: 0.00220914
+Activating Deep Search
+#139498 4886.032 sec: FPS: 29.75303 Mission Update: 0.00259025
+#147909 5186.083 sec: FPS: 29.06339 Mission Update: 0.00242043
+#156169 5486.096 sec: FPS: 29.04964 Mission Update: 0.00306834
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Clearing thermal vis
+Duplicate log entry, skipping
+#164873 5786.125 sec: FPS: 30.01466 Mission Update: 0.00197794
+Clearing thermal vis
+#173642 6086.145 sec: FPS: 29.58113 Mission Update: 0.00329547
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: b90 -> priority: 1 
-  Thread -> id: 788 -> priority: 1 
+  Thread -> id: 11e4 -> priority: 1 
+  Thread -> id: 1c3c -> priority: 1 
