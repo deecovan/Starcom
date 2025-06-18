@@ -326,7 +326,7 @@
   },
   "crewData": {
     "totalXP": 30,
-    "unspentPoints": 10,
+    "unspentPoints": 0,
     "currentTeamLevel": 2,
     "crew": [
       {
@@ -1084,23 +1084,23 @@
       },
       "DEFAULT.STARCOM": {
         "DEFAULT.REMNANT": -0.212296247,
-        "ARRIVAL.RED_RAIDERS": -9.438553E-33
+        "ARRIVAL.RED_RAIDERS": -1.12270474E-32
       },
       "ARRIVAL.RED_RAIDERS": {
-        "DEFAULT.STARCOM": -2.69365471E-32,
-        "DEFAULT.PLAYER": -3.13274727E-19,
-        "DEFAULT.ERMYR": -3.72422716E-19
+        "DEFAULT.STARCOM": -3.20407052E-32,
+        "DEFAULT.PLAYER": -3.72636542E-19,
+        "DEFAULT.ERMYR": -4.429924E-19
       },
       "DEFAULT.ERMYR": {
         "DEFAULT.PLAYER": 0.0,
-        "ARRIVAL.RED_RAIDERS": -1.11889418E-22
+        "ARRIVAL.RED_RAIDERS": -1.33091134E-22
       },
       "ARRIVAL.ALETHEIA": {
         "DEFAULT.PLAYER": 0.0
       },
       "DEVOUT.DEVOUT": {
-        "DEFAULT.PLAYER": -6.37618953E-08,
-        "WISKAMUG.WISKAMUG": -1.58574456E-12,
+        "DEFAULT.PLAYER": -7.584402E-08,
+        "WISKAMUG.WISKAMUG": -1.88622425E-12,
         "DEFAULT.OBSTACLE": -0.66
       },
       "PIRATES.BROGIDAR": {
@@ -1161,27 +1161,27 @@
   },
   "gameVarData": {
     "numberVars": {
-      "COMETS.COMETS-4_delay": 5242.50537,
-      "ARRIVAL.RESEARCH_LAB-9_delay": 6049.33936,
+      "COMETS.COMETS-4_delay": 5232.85645,
+      "ARRIVAL.RESEARCH_LAB-9_delay": 6039.69043,
       "REMNANT_SPACE.RAMA_SCIENCE_POINTS": 1675.0,
-      "DEFAULT.ANALYTICS-4_delay": 3400.69238,
+      "DEFAULT.ANALYTICS-4_delay": 3391.043,
       "DEFAULT.ANALYTICS-13_delay": 93.86819,
       "PIRATES.PAYMENTS": 1.0,
       "ALPHA.STABILIZERS": 2.0,
-      "DEFAULT.DEEP_SPACE-9_lull": 43.98973,
-      "WISKAMUG.WISKAMUG-23_delay": 1072.21448,
+      "DEFAULT.DEEP_SPACE-9_lull": 34.34122,
+      "WISKAMUG.WISKAMUG-23_delay": 1062.56616,
       "COMETS.COMETS": 2.0,
       "REMNANT_SPACE.RAMA_SCIENCE_QUESTIONS": 1.0,
-      "BEYOND.RED_RAIDERS-6_delay": 4715.206,
+      "BEYOND.RED_RAIDERS-6_delay": 4705.557,
       "VAULT.GLYPHS": 2.0,
       "PIRATES.SUBSCRIPTION": 5383.32568,
       "CONFLICT.MOISTURE_MODIFIER": 2.0,
-      "PIRATES.BROGIDAR-24_delay": 1548.4928,
-      "ARRIVAL.ALETHEIA_RETURNS-9_delay": 472.265259,
-      "ARRIVAL.ALETHEIA_RETURNS-9_lull": 43.98973,
+      "PIRATES.BROGIDAR-24_delay": 1538.84448,
+      "ARRIVAL.ALETHEIA_RETURNS-9_delay": 462.616669,
+      "ARRIVAL.ALETHEIA_RETURNS-9_lull": 34.34122,
       "DEFAULT.SCUTTLEBUTT": 6512.72266,
       "HERETICS.PYRAMIDS": 2.0,
-      "HERETICS.PORTALS-15_delay": 299.646637,
+      "HERETICS.PORTALS-15_delay": 289.998047,
       "FALLEN.EMPIRE_RUINS": 1.0
     },
     "flagVars": {
@@ -3013,7 +3013,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 4684.704,
-            "age": 3321.166,
+            "age": 3232.41943,
             "playerCoord": {
               "universe": 0,
               "ux": -1,
@@ -3064,7 +3064,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 6470.23828,
-            "age": 865.1994,
+            "age": 776.387756,
             "playerCoord": {
               "universe": 0,
               "ux": 7,
@@ -3843,7 +3843,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 5768.35254,
-            "age": 2192.93555,
+            "age": 2104.189,
             "playerCoord": {
               "universe": 0,
               "ux": 8,
@@ -5661,7 +5661,7 @@
             "progress": 0,
             "maxProgress": 1,
             "startTime": 2391.8645,
-            "age": 6826.73926,
+            "age": 6737.99268,
             "playerCoord": {
               "universe": 0,
               "ux": 5,
@@ -5926,12 +5926,12 @@
       "universe": 0,
       "ux": 5,
       "uz": 5,
-      "x": -74.09384,
-      "z": -812.474548
+      "x": -67.02142,
+      "z": -844.885559
     },
     "playerShip": {
       "shipDesignId": "DEFAULT.SMALL_MISSILES",
-      "rotation": 347.9963,
+      "rotation": 347.996338,
       "scale": 0.0,
       "modules": [
         {
@@ -6278,7 +6278,7 @@
       },
       "lastVisibility": 407.5,
       "lastDisposition": 1000.0,
-      "lastActive": 7001.4744234229438,
+      "lastActive": 6991.4167728275061,
       "disabled": false,
       "persistentId": "PLAYER",
       "prefabName": "Ship",
@@ -6286,8 +6286,8 @@
         "universe": 0,
         "ux": 5,
         "uz": 5,
-        "x": -74.09384,
-        "z": -812.474548
+        "x": -67.02142,
+        "z": -844.885559
       },
       "factionId": "DEFAULT.PLAYER",
       "discovered": false
@@ -6318,10 +6318,10 @@
     "battlestationsCooldown": 0.0,
     "shieldCharge": 0.0,
     "havokCharge": 0.0,
-    "researchPoints": 1130,
+    "researchPoints": 300,
     "totalResearchPoints": 2715,
     "anomaliesCompleted": 31,
-    "distanceFlown": 395137.03609991859,
+    "distanceFlown": 395103.11354478938,
     "swatch": {
       "id": "DEFAULT.STARCOM",
       "plating1": {
@@ -6437,7 +6437,7 @@
   "phenomenaData": {
     "emissaryData": {
       "destinations": [],
-      "timer": 441.636017
+      "timer": 429.530853
     }
   },
   "proceduralData": {
@@ -9976,10 +9976,7 @@
         "DEFAULT.HULL_SIZE_1",
         "DEFAULT.FALLEN",
         "DEFAULT.EXPLORER",
-        "DEFAULT.ENGINES_2",
-        "DEFAULT.RESOURCE_DROP_1",
-        "DEFAULT.ITEM_DROP_1",
-        "DEFAULT.CREW_SURVIVAL"
+        "DEFAULT.ENGINES_2"
       ],
       "PIRATES.BROGIDAR": [
         "DEFAULT.FIXED_PUNCHTHRU_1"
@@ -10043,9 +10040,7 @@
       "DEFAULT.MIRACLE_WORKER",
       "DEFAULT.PLASMA_2",
       "DEFAULT.EXPLORER",
-      "DEFAULT.ENGINES_2",
-      "DEFAULT.CREW_SURVIVAL",
-      "DEFAULT.ITEM_DROP_1"
+      "DEFAULT.ENGINES_2"
     ]
   },
   "tradeSaveData": {
@@ -10931,7 +10926,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "DEFAULT.STARCOM_BASE",
-            "rotation": 213.8652,
+            "rotation": 241.047577,
             "scale": 2.3,
             "modules": [
               {
@@ -11250,7 +11245,7 @@
             },
             "lastVisibility": 700.0,
             "lastDisposition": 999.0,
-            "lastActive": 7001.4744234229438,
+            "lastActive": 6991.4167728275061,
             "disabled": false,
             "persistentId": "ARRIVAL.CELAENO",
             "prefabName": "Ship",
@@ -11267,7 +11262,7 @@
           {
             "$type": "ShipData, Assembly-CSharp",
             "shipDesignId": "ARRIVAL.ALETHEIA",
-            "rotation": 135.740891,
+            "rotation": 93.85885,
             "scale": 0.0,
             "modules": [
               {
@@ -11547,7 +11542,7 @@
             "profileType": "Aletheia",
             "command": {
               "$type": "AIVisitCommand, Assembly-CSharp",
-              "persistentId": "ARRIVAL.CELAENO_PLANET",
+              "persistentId": "ARRIVAL.RAIDER_PLANET",
               "locked": false,
               "ThrottledSpeed": -1.0
             },
@@ -11560,7 +11555,7 @@
             },
             "lastVisibility": 472.5,
             "lastDisposition": 99.0,
-            "lastActive": 7001.4744234229438,
+            "lastActive": 6991.4167728275061,
             "disabled": false,
             "persistentId": "ARRIVAL.ALETHEIA2",
             "prefabName": "Ship",
@@ -11568,8 +11563,8 @@
               "universe": 0,
               "ux": 5,
               "uz": 5,
-              "x": 870.3574,
-              "z": -446.893036
+              "x": 631.726746,
+              "z": -345.3599
             },
             "factionId": "ARRIVAL.ALETHEIA",
             "discovered": true
@@ -46860,6 +46855,6 @@
   },
   "startBuild": 21519,
   "gameId": "cd04d9eded8a456e9b9de31ffe186a39",
-  "gameTime": 7001.47461,
-  "playTime": 12948.5723
+  "gameTime": 6991.793,
+  "playTime": 12853.4912
 }
