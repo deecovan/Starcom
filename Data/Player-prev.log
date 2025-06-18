@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.174 seconds
+- Completed reload, in  0.205 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.525900 ms
+UnloadTime: 1.883500 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -44,6 +44,11 @@ Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#9146 340.5172 sec: FPS: 29.90326 Mission Update: 0.00216015
+#17959 640.549 sec: FPS: 29.36551 Mission Update: 0.00220509
+Clearing thermal vis
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 16e8 -> priority: 1 
-  Thread -> id: f7c -> priority: 1 
+  Thread -> id: 1908 -> priority: 1 
+  Thread -> id: 1c8c -> priority: 1 

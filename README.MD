@@ -1,5 +1,7 @@
 # Starcom GitHub repo 
 
+## 06.18
+- Best for now Plasmoid Discoverer 48a55
 - @HACK 1000 RP 10 CP
 - @HACK 50 Gold Iridium 200 Titan
 - ... Learn Astro 2 to all
