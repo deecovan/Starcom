@@ -1,6 +1,7 @@
 # Starcom GitHub repo 
 
 - @HACK 1000 RP 10 CP
+- @HACK 50 Gold Iridium 200 Titan
 - ... Learn Astro 2 to all
 - ... Learn Biomed 1 to all
 
