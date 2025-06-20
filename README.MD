@@ -1,11 +1,15 @@
 # Starcom GitHub repo 
 
+## 06.20
+- ...Learn Astro 1-2 to all
+- ...Test 48a55 attack shielded-laser base in current position
+
 ## 06.18
 - Best for now Plasmoid Discoverer 48a55
 - @HACK 1000 RP 10 CP
 - @HACK 50 Gold Iridium 200 Titan
-- ... Learn Astro 2 to all
-- ... Learn Biomed 1 to all
+- Learn Astro 1-2 to all
+- Learn Biomed 1 to all
 
 ## 06.17 Start Cabine B
 - Proto 30a30 
