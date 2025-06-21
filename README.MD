@@ -1,6 +1,10 @@
 # Starcom GitHub repo 
 
-## 06.20
+## 06.22
+- 105z90 is good 
+- Next add shields
+
+## 06.21
 - @HACK add resourses and CP for Cruiser
 - Build Plazmoid Cruiser Beta 105a65
 - Test it. Discover East gates
