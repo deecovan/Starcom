@@ -1,6 +1,10 @@
 # Starcom GitHub repo 
 
 ## 06.20
+- @HACK add resourses and CP for Cruiser
+- Build Plazmoid Cruiser Beta 105a65
+
+## 06.20
 - Learn Astro 1-2 to all
 - Test 48a55 attack shielded-laser base in current position
 - Modify 55a55 with PowerIII, Maximum Plasma

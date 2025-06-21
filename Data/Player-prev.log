@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.195 seconds
+- Completed reload, in  0.431 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.219400 ms
+UnloadTime: 2.715800 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -31,97 +31,95 @@ Activating Wwise
 WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
 WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
 WwiseUnity: Sound engine initialized successfully.
+Steam knows about 0 achievements
 Preloading DEFAULT
 Preloading ALPHA
 Preloading ARRIVAL
 Preloading BEYOND
 Preloading REMNANT_SPACE
-Steam knows about 0 achievements
 StoryId was null
 No starting story found: ''
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
 No starting location
+Cannot interact while scan in progress
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Survey module does not exist.
+Dialogue PopUp (UIDialoguePopUp) not found in current list of windows
+Survey module does not exist.
+Survey module does not exist.
+#8353 347.2295 sec: FPS: 26.83043 Mission Update: 0.00298656
+#16544 647.2391 sec: FPS: 29.99817 Mission Update: 0.00175935
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#24405 947.2551 sec: FPS: 28.8654 Mission Update: 0.00369708
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Design '55a55' not found in either custom or premade folders
+Design '55a55' not found in either custom or premade folders
+Design '55a55' not found in either custom or premade folders
+Duplicate log entry, skipping
+#32739 1247.261 sec: FPS: 29.49946 Mission Update: 0.00312453
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Survey module does not exist.
+Survey module does not exist.
+#40175 1547.282 sec: FPS: 26.82091 Mission Update: 0.00293533
+Bootstrapped story 'CEPHEID2'
+Already objective with id MILTON
 Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
-#8960 341.0102 sec: FPS: 29.8352 Mission Update: 0.00259269
-Duplicate log entry, skipping
-#16821 641.0135 sec: FPS: 29.66683 Mission Update: 0.00358836
-Deep search spawned
-Spawning marker
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-No such detail 'REPAIRS' in 'REFINERY.REFINERY_REPAIR'
-#24795 941.0369 sec: FPS: 29.21888 Mission Update: 0.00340996
-Survey module does not exist.
-Survey module does not exist.
-#32596 1241.061 sec: FPS: 29.65967 Mission Update: 0.00366975
-Flag not satisfied, normal advance
-Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
-#40820 1541.065 sec: FPS: 29.82524 Mission Update: 0.00363347
-Bootstrapped story 'DISPATCHES'
 Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Clearing thermal vis
-#49626 1841.087 sec: FPS: 27.48686 Mission Update: 0.00246161
-#54492 2141.104 sec: FPS: 28.34602 Mission Update: 0.00345297
-Attempting to delete 13 autosaves...
-Deleting autosave: Arrival_Complete
-Deleting autosave: Covan_250615225734
-Deleting autosave: Covan_250615230835
-Deleting autosave: Covan_250615231031
-Deleting autosave: Covan_250615234204
-Deleting autosave: Covan_250615234617
-Deleting autosave: Covan_250616003228
-Deleting autosave: Covan_250616004907
-Deleting autosave: Covan_250616222224
-Deleting autosave: Covan_250616223508
-Deleting autosave: Covan_250616230815
-Deleting autosave: Covan_250616233621
-Deleting autosave: Post_Prologue
-Deleted 13 autosaves.
-#62697 2441.106 sec: FPS: 22.63817 Mission Update: 0.00274043
-Detail already at max progress
-Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.BEAM_COOLANT
-#70867 2741.12 sec: FPS: 29.48884 Mission Update: 0.0034521
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#79139 3041.558 sec: FPS: 17.62731 Mission Update: 0.0035171
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Survey module does not exist.
-#86701 3341.573 sec: FPS: 29.43233 Mission Update: 0.00326302
-Survey module does not exist.
-Survey module does not exist.
-#94228 3641.603 sec: FPS: 13.72501 Mission Update: 0.00454489
-Bootstrapped story 'CEPHEID'
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-No such detail 'ENCRYPTED' in 'HERETICS.PORTALS'
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 22f4 -> priority: 1 
-  Thread -> id: 1dfc -> priority: 1 
+  Thread -> id: 1e64 -> priority: 1 
+  Thread -> id: 2004 -> priority: 1 
