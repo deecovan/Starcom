@@ -5,6 +5,7 @@
 - Test 48a55 attack shielded-laser base in current position
 - Modify 55a55 with PowerIII, Maximum Plasma
 - Plasmoid Discoverer 55a55
+- OrganiZe blueprints
 
 ## 06.18
 - Best for now Plasmoid Discoverer 48a55
