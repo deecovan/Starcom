@@ -3,6 +3,7 @@
 ## 06.20
 - @HACK add resourses and CP for Cruiser
 - Build Plazmoid Cruiser Beta 105a65
+- Test it. Discover East gates
 
 ## 06.20
 - Learn Astro 1-2 to all
