@@ -1,8 +1,10 @@
 # Starcom GitHub repo 
 
 ## 06.20
-- ...Learn Astro 1-2 to all
-- ...Test 48a55 attack shielded-laser base in current position
+- Learn Astro 1-2 to all
+- Test 48a55 attack shielded-laser base in current position
+- Modify 55a55 with PowerIII, Maximum Plasma
+- Plasmoid Discoverer 55a55
 
 ## 06.18
 - Best for now Plasmoid Discoverer 48a55

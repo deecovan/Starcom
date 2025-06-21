@@ -10,11 +10,11 @@ Direct3D:
     VRAM:     8119 MB
     Driver:   30.0.101.1340
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.195 seconds
+- Completed reload, in  0.443 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.219400 ms
+UnloadTime: 2.953700 ms
 Preloader started, build Kepler (21519)
 Async progress 90%, attempting scene activation...
 Build Number: 21519
@@ -31,88 +31,123 @@ Activating Wwise
 WwiseUnity: Wwise(R) SDK Version 2021.1.9 Build 7847.
 WwiseUnity: Setting Plugin DLL path to: C:/Games/Starcom Unknown Space/Starcom Unknown Space_Data\Plugins\x86_64
 WwiseUnity: Sound engine initialized successfully.
+Steam knows about 0 achievements
 Preloading DEFAULT
 Preloading ALPHA
 Preloading ARRIVAL
 Preloading BEYOND
 Preloading REMNANT_SPACE
-Steam knows about 0 achievements
 StoryId was null
 No starting story found: ''
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
 No starting location
+Cannot interact while scan in progress
+#13649 509.7928 sec: FPS: 28.72118 Mission Update: 0.00452518
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+No such discovery: 'DEVOUT.GLOSSOLALIA'
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#21187 809.8082 sec: FPS: 29.19805 Mission Update: 0.00380912
+Load Game (LoadGamePopUp) not found in current list of windows
+Survey module does not exist.
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Attempted to trigger an unknown Steam Achievement: 'EXPLORER_2'
+Duplicate log entry, skipping
+#29524 1109.81 sec: FPS: 28.88915 Mission Update: 0.00385686
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Duplicate log entry, skipping
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#36861 1409.828 sec: FPS: 25.61334 Mission Update: 0.00301753
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+Setting #Point Portal_1093707189-1818535127 active to True
+Duplicate log entry, skipping
+#45178 1709.833 sec: FPS: 29.80716 Mission Update: 0.00309421
+Task scheduler exceeded 1500ms
+#52351 2009.842 sec: FPS: 18.08389 Mission Update: 0.00363519
+#59907 2309.869 sec: FPS: 16.17268 Mission Update: 0.00521465
+Task scheduler exceeded 1500ms
+Lua: 1
+Task scheduler exceeded 1500ms
+#67593 2609.881 sec: FPS: 24 Mission Update: 0.00629225
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#74851 2909.9 sec: FPS: 29.43939 Mission Update: 0.0025607
+Attempted to placed region 'Region (CEPHEID.CEPHEID)' near 'sector_0_2x12 0 x 0', actually placed at 'sector_0_3x12 0 x 0', dist 5000
 Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
-#8960 341.0102 sec: FPS: 29.8352 Mission Update: 0.00259269
-Duplicate log entry, skipping
-#16821 641.0135 sec: FPS: 29.66683 Mission Update: 0.00358836
-Deep search spawned
-Spawning marker
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-No such detail 'REPAIRS' in 'REFINERY.REFINERY_REPAIR'
-#24795 941.0369 sec: FPS: 29.21888 Mission Update: 0.00340996
-Survey module does not exist.
-Survey module does not exist.
-#32596 1241.061 sec: FPS: 29.65967 Mission Update: 0.00366975
-Flag not satisfied, normal advance
-Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
-#40820 1541.065 sec: FPS: 29.82524 Mission Update: 0.00363347
-Bootstrapped story 'DISPATCHES'
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
-Material ProgressFill(Clone) doesn't have _Stencil property
+#83050 3209.906 sec: FPS: 27.02441 Mission Update: 0.00229633
 Clearing thermal vis
-#49626 1841.087 sec: FPS: 27.48686 Mission Update: 0.00246161
-#54492 2141.104 sec: FPS: 28.34602 Mission Update: 0.00345297
-Attempting to delete 13 autosaves...
-Deleting autosave: Arrival_Complete
-Deleting autosave: Covan_250615225734
-Deleting autosave: Covan_250615230835
-Deleting autosave: Covan_250615231031
-Deleting autosave: Covan_250615234204
-Deleting autosave: Covan_250615234617
-Deleting autosave: Covan_250616003228
-Deleting autosave: Covan_250616004907
-Deleting autosave: Covan_250616222224
-Deleting autosave: Covan_250616223508
-Deleting autosave: Covan_250616230815
-Deleting autosave: Covan_250616233621
-Deleting autosave: Post_Prologue
-Deleted 13 autosaves.
-#62697 2441.106 sec: FPS: 22.63817 Mission Update: 0.00274043
-Detail already at max progress
-Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.BEAM_COOLANT
-#70867 2741.12 sec: FPS: 29.48884 Mission Update: 0.0034521
+#91139 3509.913 sec: FPS: 29.08402 Mission Update: 0.00323764
 Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-#79139 3041.558 sec: FPS: 17.62731 Mission Update: 0.0035171
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
-Task scheduler exceeded 1500ms
+Clearing thermal vis
+Duplicate log entry, skipping
+Survey module does not exist.
+Survey module does not exist.
+#99001 3809.934 sec: FPS: 29.20846 Mission Update: 0.00400429
+Bootstrapped story 'RUNAWAY'
+Duplicate log entry, skipping
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Survey module does not exist.
-#86701 3341.573 sec: FPS: 29.43233 Mission Update: 0.00326302
 Survey module does not exist.
-Survey module does not exist.
-#94228 3641.603 sec: FPS: 13.72501 Mission Update: 0.00454489
-Bootstrapped story 'CEPHEID'
+#107026 4109.944 sec: FPS: 29.69551 Mission Update: 0.00226521
+Duplicate log entry, skipping
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
@@ -121,7 +156,21 @@ Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
 Task scheduler exceeded 1500ms
-No such detail 'ENCRYPTED' in 'HERETICS.PORTALS'
+Task scheduler exceeded 1500ms
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.SHIELDS_2
+Duplicate log entry, skipping
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#114907 4409.97 sec: FPS: 29.4535 Mission Update: 0.00341267
+#122795 4710.026 sec: FPS: 14.15342 Mission Update: 0.00465724
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.DRONE_2
+Task scheduler exceeded 1500ms
+Task scheduler exceeded 1500ms
+#130109 5010.049 sec: FPS: 29.88327 Mission Update: 0.00334031
+Attempted to placed region 'Region (LOCOAN.SECRET_WORLD)' near 'sector_0_23x7 0 x 0', actually placed at 'sector_0_24x8 0 x 0', dist 7071.068
+Task scheduler exceeded 1500ms
+#137935 5310.059 sec: FPS: 29.53846 Mission Update: 0.00250689
+Task scheduler exceeded 1500ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 22f4 -> priority: 1 
-  Thread -> id: 1dfc -> priority: 1 
+  Thread -> id: e14 -> priority: 1 
+  Thread -> id: bdc -> priority: 1 
