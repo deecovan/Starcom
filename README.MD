@@ -1,5 +1,8 @@
 # Starcom GitHub repo 
 
+## 26.02.08 New Slim New Install
+
+
 ## 06.22
 - 105z90 is good 
 - Next add shields
