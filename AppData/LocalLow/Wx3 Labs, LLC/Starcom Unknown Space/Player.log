@@ -15,8 +15,7 @@ Begin MonoManager ReloadAssembly
 <RI> Input initialized.
 D3D11 device created for Microsoft Media Foundation video decoding.
 <RI> Initialized touch support.
-Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
-UnloadTime: 1.199600 ms
+UnloadTime: 0.924400 ms
 Preloader started, build Kepler (21556)
 Async progress 90%, attempting scene activation...
 Build Number: 21556
@@ -45,12 +44,300 @@ Bootstrapping custom stories...
 No starting location
 Material ProgressFill doesn't have _Stencil property
 Material ProgressFill(Clone) doesn't have _Stencil property
+#9343 335.6568 sec: FPS: 29.97439 Mission Update: 0.00108373
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+Attempted to trigger an unknown Steam Achievement: 'ERMYR_BRIBE'
+#18276 635.6736 sec: FPS: 30.00366 Mission Update: 0.00115054
+Already objective with id BRIBE_HINT
+#27256 935.6934 sec: FPS: 29.94152 Mission Update: 0.00115281
+Attempted to trigger an unknown Steam Achievement: 'RAIDER_FACTORY'
+Activating emissary for 'EmissaryDestination'
+Attempted to trigger an unknown Steam Achievement: 'EMISSARY'
+#36168 1235.714 sec: FPS: 29.92329 Mission Update: 0.00109512
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+#45038 1535.717 sec: FPS: 29.89417 Mission Update: 0.00101373
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Clearing thermal vis
+#54025 1835.726 sec: FPS: 29.97804 Mission Update: 0.00105867
+Clearing thermal vis
+#63015 2135.756 sec: FPS: 29.95612 Mission Update: 0.00106712
+Clearing thermal vis
+Bootstrapped story 'CODEX_SHAPE'
+#71897 2435.762 sec: FPS: 29.96342 Mission Update: 0.00104843
+Material ProgressFill(Clone) doesn't have _Stencil property
+Clearing thermal vis
+Duplicate log entry, skipping
+#80848 2735.774 sec: FPS: 30.00733 Mission Update: 0.00107871
+#89748 3035.778 sec: FPS: 30 Mission Update: 0.00107753
+Bootstrapped story 'REMNANT_MINIS'
+Attempted to trigger an unknown Steam Achievement: 'POLYHEDRAL'
+#98700 3335.81 sec: FPS: 29.96342 Mission Update: 0.00105701
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.MISSILE_GUIDANCE
+Duplicate player found on load, removing prior
+Attempting to set item tradeable that player has, but allowTakeFromPlayer is false DEFAULT.MISSILE_GUIDANCE
+Cannot interact while scan in progress
+#107590 3635.832 sec: FPS: 29.95612 Mission Update: 0.00121422
+#116502 3935.831 sec: FPS: 29.97804 Mission Update: 0.0013402
+#124878 4235.841 sec: FPS: 29.95612 Mission Update: 0.00134619
+#125053 4574.783 sec: FPS: 0.08979214 Mission Update: 0.00147192
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+#134011 4874.79 sec: FPS: 29.91236 Mission Update: 0.00099382
+Material ProgressFill(Clone) doesn't have _Stencil property
+#142992 5174.812 sec: FPS: 29.98536 Mission Update: 0.00115623
+#151972 5474.836 sec: FPS: 29.92694 Mission Update: 0.00128562
+Clearing thermal vis
+#160947 5774.869 sec: FPS: 29.94152 Mission Update: 0.00132991
+Duplicate log entry, skipping
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+Clearing thermal vis
+Duplicate log entry, skipping
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+Clearing thermal vis
+Bootstrapped story 'CEPHEID'
+#169834 6074.875 sec: FPS: 29.97073 Mission Update: 0.00127947
+Duplicate log entry, skipping
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+Clearing thermal vis
+#178752 6374.882 sec: FPS: 30 Mission Update: 0.00131957
+Survey module does not exist.
+#187649 6674.896 sec: FPS: 29.94152 Mission Update: 0.00122066
+Activating Deep Search
+#196517 6974.907 sec: FPS: 29.97073 Mission Update: 0.00130656
+Cannot interact while scan in progress
+#205477 7274.942 sec: FPS: 29.88327 Mission Update: 0.00125005
+Bootstrapped story 'REMNANTS_2'
+Bootstrapped story 'HELLO'
+#214373 7574.958 sec: FPS: 29.98536 Mission Update: 0.0012828
+#223296 7874.972 sec: FPS: 29.98536 Mission Update: 0.00127269
+Cannot begin survey: SURVEYOR_DAMAGED
+Cannot begin survey: SURVEYOR_DAMAGED
+Cannot begin survey: SURVEYOR_DAMAGED
+Cannot begin survey: SURVEYOR_DAMAGED
+#232223 8174.997 sec: FPS: 29.97073 Mission Update: 0.00125877
+Cannot begin survey: SURVEYOR_DAMAGED
+Cannot begin survey: SURVEYOR_DAMAGED
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Cannot begin survey: HOSTILES_NEAR
+Deep search spawned
+Bootstrapped story 'DISPATCHES'
+Spawning marker
+#241134 8475.029 sec: FPS: 30 Mission Update: 0.00131206
+Survey module does not exist.
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+Material ProgressFill(Clone) doesn't have _Stencil property
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+#250035 8775.045 sec: FPS: 30.02933 Mission Update: 0.00112007
+#259025 9075.05 sec: FPS: 29.94152 Mission Update: 0.0013142
+#268015 9375.055 sec: FPS: 29.97073 Mission Update: 0.00115702
+#277005 9675.067 sec: FPS: 30 Mission Update: 0.00102816
+No installed module, aborting
+#285986 9975.086 sec: FPS: 29.97073 Mission Update: 0.00114556
+#294975 10275.12 sec: FPS: 29.94152 Mission Update: 0.00118617
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+Clearing thermal vis
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+StoryId was null
+No starting story found: ''
+Bootstrapping custom stories...
+No starting location
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+#308070 10716.19 sec: FPS: 29.97073 Mission Update: 0.00126262
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105a65.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z90.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\105z97.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a16-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a18-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a20-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\25a25-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\30a30-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\45a45-plazmoid.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 48a55.png
+No image file C:\Users\cheva\AppData\LocalLow\Wx3 Labs, LLC\Starcom Unknown Space\blueprints\Plazmoid Discoverer 55a55.png
+Clearing thermal vis
+Clearing thermal vis
 Setting up 8 worker threads for Enlighten.
-  Thread -> id: 1750 -> priority: 1 
-  Thread -> id: 13c8 -> priority: 1 
-  Thread -> id: 29a4 -> priority: 1 
-  Thread -> id: 3658 -> priority: 1 
-  Thread -> id: cac -> priority: 1 
-  Thread -> id: 710 -> priority: 1 
-  Thread -> id: 618 -> priority: 1 
-  Thread -> id: 15d8 -> priority: 1 
+  Thread -> id: 2320 -> priority: 1 
+  Thread -> id: 9b8 -> priority: 1 
+  Thread -> id: 250c -> priority: 1 
+  Thread -> id: 26a8 -> priority: 1 
+  Thread -> id: 868 -> priority: 1 
+  Thread -> id: 2ac0 -> priority: 1 
+  Thread -> id: 3128 -> priority: 1 
+  Thread -> id: 2d64 -> priority: 1 
