@@ -2,7 +2,10 @@
 
 ## 26.02.08 New Slim New Install
 - Merge and backup OldData
-- Slim researchPoints +100
+- Slim added researchPoints +100
+  - Titan +100 
+  - Yttrium +50
+
 
 ## 06.22
 - 105z90 is good 
