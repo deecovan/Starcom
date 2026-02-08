@@ -1,7 +1,8 @@
 # Starcom GitHub repo 
 
 ## 26.02.08 New Slim New Install
-
+- Merge and backup OldData
+- Slim researchPoints +100
 
 ## 06.22
 - 105z90 is good 
